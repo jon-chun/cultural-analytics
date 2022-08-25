@@ -1,0 +1,22 @@
+site_name: Computational Cultural Analytics
+site_url: https://jon-chun.github.io/cultural-analytics
+
+theme:
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+
+nav:
+  - Home: index.md
+  - Readings: readings.md
+  - Syllabus: syllabus.md
+  - Project: project.md
+  - About: about.md
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascript/extra.js
