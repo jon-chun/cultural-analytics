@@ -16,15 +16,15 @@ In class this week we'll work on code in several existing Jupyter notebooks. We'
 
 - [Monday]:
     * Ch 1: [Introduction to Geospatial Analytics](https://drive.google.com/file/d/1efx44lDocuHcDim7gIpMGTyoKrwMcgNI/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
-    * Ch 2: [Essential Facilities for Spatial Analytics]() from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
-    * Ch 8: [Data Cleaning]() from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
+    * Ch 2: [Essential Facilities for Spatial Analytics](https://drive.google.com/file/d/19ajpcERnjCSwvt_-M2qE5kKwgDuZwSfj/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
+    * Ch 8: [Data Cleaning](https://drive.google.com/file/d/1Qp6rF8zYGDzOP-qJm-rkqyjTtEVymp5r/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
 - [Wednesday]:
-    * Ch 3: [QGIS: Python for Spatial Analytics]() from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
-    * Ch 4: [Geospatial Analytics in the Cloud: Google Earth Engine and Other Tools]() from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
-    * Ch 5: [Open StreetMap: Accessing Geospatial Data with OSMnx]() from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
+    * Ch 3: [QGIS: Python for Spatial Analytics](https://drive.google.com/file/d/1xLq5mL2mDq2P74bTqkETQ6ZwRyyVxXkX/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
+    * Ch 4: [Geospatial Analytics in the Cloud: Google Earth Engine and Other Tools](https://drive.google.com/file/d/1q4zJ1EhRw6yvNl3HwUhRlfzDS6PjDanf/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
+    * Ch 5: [Open StreetMap: Accessing Geospatial Data with OSMnx](https://drive.google.com/file/d/1YwbrSaSDkFs7qkqmda8pv7_NhtjrBqVx/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
 - [Friday]:
-    * Ch 6: [ArcGIS Python API]() from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
-    * Ch 7: [GeoPandas and Spatial Statistics]() from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
+    * Ch 6: [ArcGIS Python API](https://drive.google.com/file/d/12uxstmQ5iJO6D9NhOtAo3wHn0Wvd6kqy/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
+    * Ch 7: [GeoPandas and Spatial Statistics](https://drive.google.com/file/d/1zGp8aIny2A9jZh6mCVFkUuLU5o_FuYGJ/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
 
 
 
