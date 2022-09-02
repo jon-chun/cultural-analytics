@@ -10,7 +10,7 @@
 
 ## Mini-Project #1: Mapping
 
-* Mini-Project #1 Resources
+* [Mini-Project #1 Geospatial Analysis](miniproject_1.md)
 
 ## Data and Bots
 
