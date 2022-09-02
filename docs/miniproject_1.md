@@ -5,8 +5,10 @@
 
 ## Overview
 
+This week outside class we'll read the chapters of an upcoming book on Geospatial Data Analysis using Pyhon. Although code is presented in these chapters, please read quickly for high-level concepts (no coding required outside class this week - no Datacamp). Try to look for universal pattern across various geospatial libraries, identify the common workflows and bring any questions that arise during your readings. 
 
-Cultural analytics is the study of society and social phenomena by analyzing data and the way it flows. This course presumes some coding experience or the introductory course to Digital Humanities, Programming Humanity. We’ll build on our skills using API’s to create original datasets from social media sites like Twitter. Then we’ll develop natural language processing skills including sentiment analysis and topic clustering to explore text for insights. We’ll also learn how to graph and explore social networks. In class, we’ll do some hands-on projects like analyzing the social network of Game of Thrones and trying to classify who’s tweeting: Trump or Trudeau. In the final segment of the course, students develop their own project centered on their interests.
+In class this week we'll work on code in several existing Jupyter notebooks. We'll also do several coding exercises merging, manipulating and presenting geospatial data. By the end of the week you should have both a broad theoretic background in Geospatial analysis as well as a baseline ability to create, manipulate and present maps using Python and realted Geospatial libraries.
+
 
 ## Readings
 
