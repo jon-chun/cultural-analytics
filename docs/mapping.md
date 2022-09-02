@@ -1,36 +1,46 @@
 # Week: Mapping
 <hr>
 
-**Computational Cultural Analytics**  
-**Kenyon College**  
-**Fall 2022**  
-
-![Map Image](images/image_map_delfi-de-la-rua-vfzfavUZmfc-unsplash.jpg)
+![Map Image](images/img_iphs290_map_delfi-de-la-rua-vfzfavUZmfc-unsplash.jpg)
 
 ## Overview
 
-Cultural analytics is the study of society and social phenomena by analyzing data and the way it flows. This course presumes some coding experience or the introductory course to Digital Humanities, Programming Humanity. We’ll build on our skills using API’s to create original datasets from social media sites like Twitter. Then we’ll develop natural language processing skills including sentiment analysis and topic clustering to explore text for insights. We’ll also learn how to graph and explore social networks. In class, we’ll do some hands-on projects like analyzing the social network of Game of Thrones and trying to classify who’s tweeting: Trump or Trudeau. In the final segment of the course, students develop their own project centered on their interests.
+The most popular stereotype of data is in the form of numeric tables or spreadsheets. In this course we introduce the other prominent classes of more complex data types. This includes geospatial, time series and network graphs which respectively emphasize the additional dimensional properties of data. Specifically, we will focus on the geospatial, temporal and network relationships between distinct entities. 
 
-## Application
+We begin the course with geospatial data types since this is perhaps the most intuitive for humans to understand, transform and analyze. Python geospatial libraries can be similiarly straightforward given the mental frameworks of Pandas dataframes and set theory. In particular, we will explore the functionality of two popular Python libraries for geospatial mapping: GeoPandas and GeoPy.
 
-https://digitalhumanitiesnow.org/2018/06/editors-choice-torn-apart-separados/
-https://xpmethod.columbia.edu/torn-apart/volume/2/
+## Applications
 
-## Technical Background
+- [Monday]  
+    * [Torn Apart Separado, Summary](https://digitalhumanitiesnow.org/2018/06/editors-choice-torn-apart-separados/)
+    * [Torn Apart Separado, Project](https://xpmethod.columbia.edu/torn-apart/volume/2/)
+- [Wednesday]  
+    * [Not Even the Past: Social Vunerability and the Legacy of Redlining](https://dsl.richmond.edu/socialvulnerability/)
+- [Friday]  
+    * [Land Acquisition and Dispossession: Mapping the Homestead Act, 1863-1912](https://dsl.richmond.edu/panorama/homesteading/)
 
-GeoPy: https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/01-Mapping.html 
-https://github.com/gboeing/osmnx-examples/tree/main/notebooks 
-https://github.com/sshuair/awesome-gis
-https://github.com/sacridini/Awesome-Geospatial 
 
 ## Coding Practice
 
-Working with Geospatial Data in Python (4hrs)
-(Datacamp) https://app.datacamp.com/learn/courses/working-with-geospatial-data-in-python 
-(OSS Alternative) https://www.kaggle.com/learn/geospatial-analysis 
+- [Monday]  
+    * [GeoPy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/01-Mapping.html) Jupyter Notebook with Commentary (Read this Jupyter notebook for the big picture. We'll review the details and implement on Friday in lab)
+    * Datafile for GeoPy Notebook: [ithica-places.csv](https://drive.google.com/file/d/1iEwKQVwugdxs8t_r5rAviUZUkYLer_EY/view?usp=sharing)
+    * Jupyter [GeoPy Notebook](https://colab.research.google.com/drive/1uH4Trkt8ZI4Qg03KR0zW4Jzzr_fOd7Lh?usp=sharing)
+    * Part 1: [Working with Geospatial Data in Python](https://app.datacamp.com/learn/courses/working-with-geospatial-data-in-python) (NOTE: This datacamp is a bit less clear than most because it assumes a few key bits of prior knowledge. Don't get hung up on any unstated assumptions, work through it as best you can, and bring any questions to class. We'll explain the finer points in class.)
+- [Wednesday]  
+    * Parts 2 & 3: [Working with Geospatial Data in Python](https://app.datacamp.com/learn/courses/working-with-geospatial-data-in-python)
+- [Friday]  
+    * Part 4: [Working with Geospatial Data in Python](https://app.datacamp.com/learn/courses/working-with-geospatial-data-in-python)
+    
 
-## Lab
 
-Find at least 2 disparate shape/location datafiles and plot them onto the same map
+## Questions:
+
+* Q: What does 'importance' mean in the statement: print(f"Importance: {location.raw['importance']}")
+* A: Somewhat opaque answer in the [Geocoding Archives](https://www.google.com/search?q=nominatim+importance+site%3Ahttps%3A%2F%2Flists.openstreetmap.org%2Fpipermail%2Fgeocoding%2F&oq=nominatim+importance+site%3Ahttps%3A%2F%2Flists.openstreetmap.org%2Fpipermail%2Fgeocoding%2F&aqs=chrome..69i57.1441j0j15&sourceid=chrome&ie=UTF-8)
+
+## Project Ideas
+
+* Find at least 2 disparate shape/location datafiles and plot them both onto the same map using GeoPy.
 
 

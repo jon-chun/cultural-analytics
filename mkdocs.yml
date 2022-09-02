@@ -20,3 +20,8 @@ extra_css:
 
 extra_javascript:
   - javascript/extra.js
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true

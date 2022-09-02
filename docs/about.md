@@ -2,6 +2,8 @@
 
 ---
 
+![Reading Image](images/img_iphs290_about_esther-jiao-ADv0GiMBlmI-unsplash.jpg)
+
 
 ## Katherine Elkins, Ph.D
 
@@ -21,14 +23,14 @@ Professor Elkins’ research interests include literature and philosophy, modern
 
 **RECENT COURSES**
 CWL/IPHS 191/200 – Programming Humanity (2017-2022)
-IPHS 220 - Cultural Analytics (2022)
+IPHS 290 - Cultural Analytics (2022)
 CWL/IPHS 391/300 – Artificial Intelligence for the Humanities (2018-2022)
 IPHS Senior Seminar (Computational DH) - (2015-2022)
 
 ## Jon Chun
 
 Email: chunj@kenyon.edu  
-Twitter: [jonchun](https://twitter.com/jonchun2000)  
+Twitter: [@jonchun2000](https://twitter.com/jonchun2000)  
 [Google Scholar](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en&oi=ao)  
 
 Jon Chun has degrees in electrical engineering, computer science and biomedical engineering with a focus on cognitive science from UC Berkeley and UT Austin. As a post-graduate American Heart Research Fellow, he conducted and published research in both gene therapy and medical informatics.  He has also worked for the Advanced Light Source Group at Lawrence Berkeley Laboratory and the semiconductor research consortium SEMATECH in Austin.  His research interests include Machine Learning, Artificial Intelligence, Data Analytics, Natural Language Processing and Affective AI.
@@ -46,7 +48,7 @@ Data Analytics, Machine Learning and AI, Network Security, FinTech, MedTech, Bio
 
 **RECENT COURSES**
 CWL/IPHS 191/200 – Programming Humanity (2017 – 2020)
-IPHS 220 - Cultural Analytics (2022)
+IPHS 290 - Cultural Analytics (2022)
 CWL/IPHS 391/300 – Artificial Intelligence for the Humanities (2018 – 2021)
 IPHS Senior Seminar (Computational DH) - (2020-2022)
 

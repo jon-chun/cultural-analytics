@@ -1,32 +1,42 @@
 # Readings
 ---
 
-## Mapping
+![Reading Image](images/img_iphs290_readings_sincerely-media-c1YrcFYW66s-unsplash.jpg)
 
-* [Geospatial Visualizations](mapping.md)
+
+## Geospatial Visualizations
+
+* [Mapping](mapping.md)
+
+## Mini-Project #1: Mapping
+
+* Mini-Project #1 Resources
 
 ## Data and Bots
 
-* Web Scraping    <!-- (scraping.md) -->
-* Talking to APIs <!-- (api.md) -->
-* Text Wrangling  <!-- (wrangling.md) -->
-* Text Encoding   <!-- (encoding.md) -->
+* Web Scraping <!-- [Web Scraping](scraping.md) -->
+* Talking to APIs <!-- [Talking to APIs](api.md) -->
+* Intro NLP <!-- [Intro NLP](nlp_intro.md) -->
+* Social Networks <!-- [Social Networks](networks.md) -->
 
+## Mini-Project #2: Social Networks
+
+* Mini-Project #2 Resources
 ## Natural Language Processing (NLP)
 
-* Linguistics      <!-- (linguistics.md) -->
-* Machine Learning <!-- (ml.md) -->
-* Topic Modeling   <!-- (topicmodeling.md) -->
-* Multilingual NLP <!-- (multilingual.md) -->
+* Sentiment Analysis <!-- [Sentiment Analysis](sentiment_analysis.md) -->
+* Advanced NLP <!-- [Advanced NLP](nlp_advanced.md) -->
+* Topic Modeling <!-- [Topic Modeling](topic_modeling.md) -->
+* Diachronic Sentiment Analysis <!-- [Diachronic Sentiment Analysis](diachronic_sa.md) -->
 
-## Time Series
+## Mini-Project #3: Diachronic Sentiment Analysis
 
-* Diachronic Sentiment Analysis <!-- (sentimentanalysis.md) -->
+* Mini-Project #3 Resources
 
-## Graphs
+## Sharing Content
 
-* Social Networks <!-- (networks.md) -->
+* Web Servers <!-- [Web Servers](web.md) -->
 
-## Web
+## Final Project: Poster
 
-* Serving Content <!-- (web.md) -->
+* Final Project Resources
