@@ -5,7 +5,7 @@
 
 ## Overview
 
-This week outside class we'll read the chapters of an upcoming book on Geospatial Data Analysis using Pyhon. Although code is presented in these chapters, please read quickly for high-level concepts (no coding required outside class this week - no Datacamp). Try to look for universal pattern across various geospatial libraries, identify the common workflows and bring any questions that arise during your readings. 
+This week outside class we'll read the chapters of an upcoming book on Geospatial Data Analysis using Pyhon. Although some code is presented in later chapters, this is more an overview for non-coders interested in mapping. The loquacious style facilitates a quick read for high-level concepts. Look to look for universal pattern across various geospatial libraries, identify the common workflows and bring any questions that arise during your readings. There is no coding outside class this week (no Datacamp).
 
 In class this week we'll work on code in several existing Jupyter notebooks. We'll also do several coding exercises merging, manipulating and presenting geospatial data. By the end of the week you should have both a broad theoretic background in Geospatial analysis as well as a baseline ability to create, manipulate and present maps using Python and realted Geospatial libraries.
 
