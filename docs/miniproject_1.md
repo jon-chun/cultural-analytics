@@ -33,9 +33,9 @@ In class this week we'll work on code in several existing Jupyter notebooks. We'
 Datacamp.com [Working with Geospatial Data in Python (4hrs)](https://app.datacamp.com/learn/courses/working-with-geospatial-data-in-python)
 
 - [Monday]: Finding and Creating Geospatial Datasets
-    * [Jupyter Notebook #1]() 
+    * [Jupyter Notebook #1: Leaflet Key Features](https://colab.research.google.com/drive/10PwdvVQn_hr6u3ipx2MzF6-yE-BK2_CO?usp=sharing) 
 - [Wednesday]: Plotting and Analytics
-    * [Jupyter Notebook #1]()
+    * [Jupyter Notebook #1: OSMnx](https://colab.research.google.com/drive/13AGkOw7jWMYkF82ZY27ZyR_HYWXMbzYM?usp=sharing)
 - [Friday]: Presenting to the World
     * [Jupyter Notebook #1]()
 
