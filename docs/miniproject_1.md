@@ -37,5 +37,7 @@ Datacamp.com [Working with Geospatial Data in Python (4hrs)](https://app.datacam
 - [Wednesday]: Plotting and Analytics
     * [Jupyter Notebook #1: OSMnx](https://colab.research.google.com/drive/13AGkOw7jWMYkF82ZY27ZyR_HYWXMbzYM?usp=sharing)
 - [Friday]: Presenting to the World
-    * [Jupyter Notebook #1]()
+    * [Jupyter Notebook #1: Coming]()
+
+
 
