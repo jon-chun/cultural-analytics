@@ -40,4 +40,8 @@ Datacamp.com [Working with Geospatial Data in Python (4hrs)](https://app.datacam
     * [Jupyter Notebook #1: Coming]()
 
 
+## Mapping Resources
+
+[Taxonomy of Geospatial Analytics Resources for Mapping](https://github.com/jon-chun/resources-geospatial-analysis)
+
 
