@@ -36,6 +36,7 @@ Datacamp.com [Working with Geospatial Data in Python (4hrs)](https://app.datacam
     * [Jupyter Notebook #1: OSMnx](https://colab.research.google.com/drive/13AGkOw7jWMYkF82ZY27ZyR_HYWXMbzYM?usp=sharing)
 - [Wednesday]: Basics of Geospatial Analysis
     * [Kaggle Course](https://www.kaggle.com/learn/geospatial-analysis)
+    * [Kaggle Geopandas Notebooks](https://www.kaggle.com/search?q=geopandas+in%3Anotebooks+notebookLanguage%3APython)
 - [Friday]: Presenting to the World
     * Create your own Geospatial visualization in a Jupyter Notebook from scratch
 
