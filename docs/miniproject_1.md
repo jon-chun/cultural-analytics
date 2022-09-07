@@ -23,8 +23,9 @@ In class this week we'll work on code in several existing Jupyter notebooks. We'
     * Ch 4: [Geospatial Analytics in the Cloud: Google Earth Engine and Other Tools](https://drive.google.com/file/d/1q4zJ1EhRw6yvNl3HwUhRlfzDS6PjDanf/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
     * Ch 5: [Open StreetMap: Accessing Geospatial Data with OSMnx](https://drive.google.com/file/d/1YwbrSaSDkFs7qkqmda8pv7_NhtjrBqVx/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
 - [Friday]:
-    * Ch 6: [ArcGIS Python API](https://drive.google.com/file/d/12uxstmQ5iJO6D9NhOtAo3wHn0Wvd6kqy/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
-    * Ch 7: [GeoPandas and Spatial Statistics](https://drive.google.com/file/d/1zGp8aIny2A9jZh6mCVFkUuLU5o_FuYGJ/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
+    * [Complete Kaggle Geospatial Course, Notebooks 3-5](https://www.kaggle.com/learn/geospatial-analysis)
+    * ~~Ch 6: [ArcGIS Python API](https://drive.google.com/file/d/12uxstmQ5iJO6D9NhOtAo3wHn0Wvd6kqy/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022~~
+    * (Optional) Ch 7: [GeoPandas and Spatial Statistics](https://drive.google.com/file/d/1zGp8aIny2A9jZh6mCVFkUuLU5o_FuYGJ/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
 
 
 ## Coding Practice in Class
