@@ -27,17 +27,17 @@ In class this week we'll work on code in several existing Jupyter notebooks. We'
     * Ch 7: [GeoPandas and Spatial Statistics](https://drive.google.com/file/d/1zGp8aIny2A9jZh6mCVFkUuLU5o_FuYGJ/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
 
 
-
 ## Coding Practice in Class
 
 Datacamp.com [Working with Geospatial Data in Python (4hrs)](https://app.datacamp.com/learn/courses/working-with-geospatial-data-in-python)
 
 - [Monday]: Finding and Creating Geospatial Datasets
     * [Jupyter Notebook #1: Leaflet Key Features](https://colab.research.google.com/drive/10PwdvVQn_hr6u3ipx2MzF6-yE-BK2_CO?usp=sharing) 
-- [Wednesday]: Plotting and Analytics
     * [Jupyter Notebook #1: OSMnx](https://colab.research.google.com/drive/13AGkOw7jWMYkF82ZY27ZyR_HYWXMbzYM?usp=sharing)
+- [Wednesday]: Basics of Geospatial Analysis
+    * [Kaggle Course](https://www.kaggle.com/learn/geospatial-analysis)
 - [Friday]: Presenting to the World
-    * [Jupyter Notebook #1: Coming]()
+    * Create your own Geospatial visualization in a Jupyter Notebook from scratch
 
 
 ## Mapping Resources
