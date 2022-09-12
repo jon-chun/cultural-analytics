@@ -47,4 +47,9 @@ Datacamp.com [Working with Geospatial Data in Python (4hrs)](https://app.datacam
 
 [Taxonomy of Geospatial Analytics Resources for Mapping](https://github.com/jon-chun/resources-geospatial-analysis)
 
+## Mini-Project Brainstorming
+
+[Brainstorming](images/whiteboard_cultural_analytics_2022fall_miniproject_map_ideas.jpg)
+[Team Assignments](images/whiteboard_cultural_analytics_2022fall_miniproject_map_teams.jpg)
+
 
