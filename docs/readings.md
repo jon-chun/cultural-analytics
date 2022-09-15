@@ -14,8 +14,8 @@
 
 ## Data and Bots
 
-* Web Scraping <!-- [Web Scraping](scraping.md) -->
-* Talking to APIs <!-- [Talking to APIs](api.md) -->
+* [Web Scraping](scraping.md)
+* [Talking to APIs](api.md)
 * Intro NLP <!-- [Intro NLP](nlp_intro.md) -->
 * Social Networks <!-- [Social Networks](networks.md) -->
 

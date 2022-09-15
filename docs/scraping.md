@@ -5,31 +5,24 @@
 
 ## Overview
 
+Data is the Alpha and Omega of Data Science, Machine Learning and Deep Learning. The creativity, expressiveness and strength of your analysis will be bounded by the data you have. The quality of your dataset can be measured along many dimensions including the type/number of features, originality, number of datapoints, accuracy, coherence, etc.
 
-Cultural analytics is the study of society and social phenomena by analyzing data and the way it flows. This course presumes some coding experience or the introductory course to Digital Humanities, Programming Humanity. We’ll build on our skills using API’s to create original datasets from social media sites like Twitter. Then we’ll develop natural language processing skills including sentiment analysis and topic clustering to explore text for insights. We’ll also learn how to graph and explore social networks. In class, we’ll do some hands-on projects like analyzing the social network of Game of Thrones and trying to classify who’s tweeting: Trump or Trudeau. In the final segment of the course, students develop their own project centered on their interests.
+While there are a rapidly growing number of public datasets, they often are best used for tutorials, training and establishing baseline metrics. It is extremely difficult to create new, innovative and meaningful data analysis based upon datasets provided by others. That is why this week we will introduce you to Web Scraping, so you will be able to create your own unique datasets based upon the wide variety of information available on the Web. Along the way, you'll learn how the metatag language of HTML (a type of XML markup) is used to structure web pages and separate content from visual presentation.
 
 ## Applications
 
 - [Monday]: 
-    * [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
+    * [Web Scraping](./scraping.md)
 - [Wednesday]: 
-    * [Project Website](https://dsl.richmond.edu/socialvulnerability/)
+    * [Web Scraping](./scraping.md)
+    * [Twitter API Video](https://realpython.com/beautiful-soup-web-scraper-python/)
 - [Friday]: 
-    * [Project Website](https://dsl.richmond.edu/panorama/homesteading/)
+    * [Twitter API Tutorial](./api.md)
 
 
 ## Coding Practice
 
-* Datacamp.com [Working with Geospatial Data in Python (4hrs)](https://app.datacamp.com/learn/courses/working-with-geospatial-data-in-python)
+* Datacamp.com [Intermediate Importing Data in Python (4hrs)](https://app.datacamp.com/learn/courses/web-scraping-with-python)
 
-
-## Lab Prep
-
-* [GeoPy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/01-Mapping.html)
-
-
-## Lab Assignment
-
-Find at least 2 disparate shape/location datafiles and plot them both onto the same map using GeoPy.
 
 
