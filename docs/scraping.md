@@ -12,12 +12,12 @@ While there are a rapidly growing number of public datasets, they often are best
 ## Applications
 
 - [Monday]: 
-    * [Web Scraping](./scraping.md)
+    * [Web Scraping Basics in Python (19:47)](https://www.youtube.com/watch?v=myAFVM7CxWk)
 - [Wednesday]: 
-    * [Web Scraping](./scraping.md)
-    * [Twitter API Video](https://realpython.com/beautiful-soup-web-scraper-python/)
+    * [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
+    * [goto API](./api.md)
 - [Friday]: 
-    * [Twitter API Tutorial](./api.md)
+    * [goto API](./api.md)
 
 
 ## Coding Practice

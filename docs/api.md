@@ -13,13 +13,13 @@ GUIs focus on carefully representing, architecting and sequencing information to
 ## Applications
 
 - [Monday]: 
-    * [Web Scraping](./scraping.md)
+    * [goto Web Scraping](./scraping.md)
 - [Wednesday]: 
-    * [Web Scraping](./scraping.md)
+    * [goto Web Scraping](./scraping.md)
     * [Step-by-Step Guide to Making Your First Request to the New Twitter API](https://developer.twitter.com/en/docs/tutorials/step-by-step-guide-to-making-your-first-request-to-the-twitter-api-v2))
     * [Twitter API with Python (Complete Guide)](https://www.jcchouinard.com/twitter-api/)
 - [Friday]: 
-    * [Automated Twitter Bot in Python](https://www.youtube.com/watch?v=UGv_bJkF1kg)
+    * [Automated Twitter Bot in Python (19:02)](https://www.youtube.com/watch?v=UGv_bJkF1kg)
 
 
 ## Coding Practice
