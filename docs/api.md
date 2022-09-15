@@ -8,7 +8,7 @@
 
 Data flows constantly over networks under two basic paradigms. The information flow between machines and humans take place via interfaces like the command line or Graphical User Interfaces (GUIs) like MacOS or Windows 11. Machine to machine (or software to software) communications usually take place at multiple levels of abstractions from low-level network protocols (e.g. TCP/IP) to high-level application protocols (e.g. HTTP). These machine to machine communication protocols are commonly visualized via the [7-layer OSI model](https://en.wikipedia.org/wiki/OSI_protocols#cite_note-2).
 
-Whereas GUIs focus on carefully representing, architecting and sequencing information to leverage human intuitions and cognitive processes, machine to machines communications focus on efficiency, robustness, interconnectivity and security. This week we will study and write Python programs to communicate with the Twitter Application Program Interface (API) and emphasize the more universal principles of structured machine-to-machine communications using JSON.
+GUIs focus on carefully representing, architecting and sequencing information to leverage human intuitions and cognitive processes. Web scraping in a laborious, error-prone and often restricted way to harvest information from web GUIs. On the other hand, specially architected machine to machines communications via REST or GraphQL focus on interconnectivity, efficiency, robustness and security. This week we will study and write Python programs to communicate with the Twitter Application Program Interface (API) and emphasize the more universal principles of structured machine-to-machine communications using JSON.
 
 ## Applications
 
