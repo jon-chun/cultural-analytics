@@ -24,4 +24,12 @@ GUIs focus on carefully representing, architecting and sequencing information to
 
 ## Coding Practice
 
-* Datacamp.com [Intermediate Importing Data in Python (2hrs](https://app.datacamp.com/learn/courses/intermediate-importing-data-in-python)
+* Datacamp.com [Intermediate Importing Data in Python (2hrs)](https://app.datacamp.com/learn/courses/intermediate-importing-data-in-python)
+
+
+## Additional References (Optional)
+
+* REST vs GraphQL
+* FastAPI & Uvicorn
+* Postman vs Insomnia
+* Cloud, Microservices & SaaS

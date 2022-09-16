@@ -25,4 +25,8 @@ While there are a rapidly growing number of public datasets, they often are best
 * Datacamp.com [Intermediate Importing Data in Python (4hrs)](https://app.datacamp.com/learn/courses/web-scraping-with-python)
 
 
+## Additional References (Optional)
 
+* [Always Check for the Hidden API when Web Scraping (11:49)](https://www.youtube.com/watch?v=DqtlR0y0suo)
+* [Web Scraping with Professional Proxy Servers (32:25)](https://www.youtube.com/watch?v=hh8UHmkymik)
+* [Selenium Browser Automation in Python (21:37)](https://www.youtube.com/watch?v=SPM1tm2ZdK4)
