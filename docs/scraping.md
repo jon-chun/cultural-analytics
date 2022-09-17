@@ -13,10 +13,10 @@ While there are a rapidly growing number of public datasets, they often are best
 
 - [Monday]: 
     * [Web Scraping Basics in Python (19:47)](https://www.youtube.com/watch?v=myAFVM7CxWk)
-    *  Datacamp.com [Intermediate Importing Data in Python (2hrs) Chp 1 & 2](https://app.datacamp.com/learn/courses/web-scraping-with-python)
+    *  Datacamp.com [Web Scraping    in Python (2hrs) Chp 1 & 2](https://app.datacamp.com/learn/courses/web-scraping-with-python)
 - [Wednesday]: 
     * [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
-    *  Datacamp.com [Intermediate Importing Data in Python (1hrs) Chp 3](https://app.datacamp.com/learn/courses/web-scraping-with-python)
+    *  Datacamp.com [Web Scraping in Python (1hrs) Chp 3](https://app.datacamp.com/learn/courses/web-scraping-with-python)
     * [goto API](./api.md)
 - [Friday]: 
     * [goto API](./api.md)

@@ -8,8 +8,8 @@
 
 * [Mapping](mapping.md)
 
-## Mini-Project #1: Mapping
-
+## Mini-Project #1: Mapping 
+* Due: before class Wednesday, Sep 21, 2022
 * (weeks 2 & 3) [Mini-Project #1 Geospatial Analysis](miniproject_1.md)
 
 ## Data and Bots
