@@ -20,6 +20,7 @@ GUIs focus on carefully representing, architecting and sequencing information to
     * [Twitter API with Python (Complete Guide)](https://www.jcchouinard.com/twitter-api/)
 - [Friday]: 
     * [Automated Twitter Bot in Python (19:02)](https://www.youtube.com/watch?v=UGv_bJkF1kg)
+    * Datacamp.com [Intermediate Importing Data in Python (2hrs) Chp 1-4](https://app.datacamp.com/learn/courses/intermediate-importing-data-in-python)
 
 
 ## Coding Practice

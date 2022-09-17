@@ -10,12 +10,12 @@
 
 ## Mini-Project #1: Mapping
 
-* [Mini-Project #1 Geospatial Analysis](miniproject_1.md)
+* (weeks 2 & 3) [Mini-Project #1 Geospatial Analysis](miniproject_1.md)
 
 ## Data and Bots
 
-* [Web Scraping](scraping.md)
-* [Talking to APIs](api.md)
+* (first 1/2 of week 4) [Web Scraping](scraping.md)
+* (second 1/2 of week 4) [Talking to APIs](api.md)
 * Intro NLP <!-- [Intro NLP](nlp_intro.md) -->
 * Social Networks <!-- [Social Networks](networks.md) -->
 

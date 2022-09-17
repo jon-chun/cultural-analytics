@@ -46,7 +46,7 @@ Datacamp.com [Working with Geospatial Data in Python (4hrs)](https://app.datacam
 ## Mapping Resources
 
 - [A Beginner's Guide to Geospatial Data Analysis](https://www.analyticsvidhya.com/blog/2022/06/an-beginners-guide-to-geospatial-data-analysis/)
-    * A Great Summary Article with the 7 most important functions in GeoPandas
+    * A concise summary of the 7 most important functions in GeoPandas
 - [Taxonomy of Geospatial Analytics Resources for Mapping](https://github.com/jon-chun/resources-geospatial-analysis)
 
 ## Mini-Project Brainstorming
