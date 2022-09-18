@@ -47,7 +47,7 @@ While there are a rapidly growing number of public datasets, they often are best
 * [Selinum Browser Automation](https://www.youtube.com/watch?v=SPM1tm2ZdK4&t=3s)
 
 
-## Additional References (Optional)
+## Optional Additional References
 
 * [Always Check for the Hidden API when Web Scraping (11:49)](https://www.youtube.com/watch?v=DqtlR0y0suo)
 * [Web Scraping with Professional Proxy Servers (32:25)](https://www.youtube.com/watch?v=hh8UHmkymik)
