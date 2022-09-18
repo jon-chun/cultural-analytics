@@ -22,11 +22,22 @@ While there are a rapidly growing number of public datasets, they often are best
     * [goto API](./api.md)
 
 
-## Software and More
+## Software to Install
 
 * [VSCode](https://code.visualstudio.com/download)
 * [Thunder VS Code Plugin for APIs](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
-* [XPather](http://xpather.com/)
+
+## New Python Libraries
+
+* [requests.py](https://requests.readthedocs.io/en/latest/)
+* [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Selenium](https://github.com/SeleniumHQ/selenium)
+* [webdriver-manager](https://github.com/SergeyPirogov/webdriver_manager)
+* (Optional) [Scrapy](https://github.com/scrapy/scrapy)
+* (Optional) [requests-html](https://github.com/psf/requests-html)
+* (Optional) [mechanize](https://github.com/python-mechanize/mechanize)
+* (Optional) [autoscraper](https://github.com/alirezamika/autoscraper)
+
 
 ## In-Class Lab
 * [Crash Course Scraping with XPath+Selenium](https://www.youtube.com/watch?v=jraDTvKLLvY)
