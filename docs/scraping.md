@@ -13,7 +13,7 @@ While there are a rapidly growing number of public datasets, they often are best
 
 - [Monday]: 
     * [Web Scraping Basics in Python (19:47)](https://www.youtube.com/watch?v=myAFVM7CxWk)
-    *  Datacamp.com [Web Scraping    in Python (2hrs) Chp 1 & 2](https://app.datacamp.com/learn/courses/web-scraping-with-python)
+    *  Datacamp.com [Web Scraping in Python (2hrs) Chp 1 & 2](https://app.datacamp.com/learn/courses/web-scraping-with-python)
 - [Wednesday]: 
     * [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
     *  Datacamp.com [Web Scraping in Python (1hrs) Chp 3](https://app.datacamp.com/learn/courses/web-scraping-with-python)
@@ -22,9 +22,18 @@ While there are a rapidly growing number of public datasets, they often are best
     * [goto API](./api.md)
 
 
-## Coding Practice
+## Software and More
 
+* [VSCode](https://code.visualstudio.com/download)
+* [Thunder VS Code Plugin for APIs](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+* [XPather](http://xpather.com/)
 
+## In-Class Lab
+* [Crash Course Scraping with XPath+Selenium](https://www.youtube.com/watch?v=jraDTvKLLvY)
+* [Books.toscrape.com](https://books.toscrape.com/ )
+* [XPather](http://xpather.com/ 
+)
+* [Selinum Browser Automation](https://www.youtube.com/watch?v=SPM1tm2ZdK4&t=3s)
 
 
 ## Additional References (Optional)
