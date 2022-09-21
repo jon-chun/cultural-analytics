@@ -26,20 +26,23 @@ While there are a rapidly growing number of public datasets, they often are best
 
 * [VSCode](https://code.visualstudio.com/download)
 * [Thunder VS Code Plugin for APIs](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
-
+* [Virtual Environments with venv](https://voxel51.com/docs/fiftyone/getting_started/virtualenv.html)
 ## New Python Libraries
 
+* [virtualenv](https://docs.python-guide.org/dev/virtualenvs/)
 * [requests.py](https://requests.readthedocs.io/en/latest/)
 * [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [lxml](https://lxml.de/)
 * [Selenium](https://github.com/SeleniumHQ/selenium)
 * [webdriver-manager](https://github.com/SergeyPirogov/webdriver_manager)
 * (Optional) [Scrapy](https://github.com/scrapy/scrapy)
-* (Optional) [requests-html](https://github.com/psf/requests-html)
-* (Optional) [mechanize](https://github.com/python-mechanize/mechanize)
-* (Optional) [autoscraper](https://github.com/alirezamika/autoscraper)
 
 
 ## In-Class Lab
+* [HTML & CSS Crash Course Tutorial #7 - Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw)
+* [How to find xpath in Chrome (4:06)](https://www.youtube.com/watch?v=JanCuJSAzhc)
+* [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
+* (Reference: Table at top of article) [Practical XPath for Web Scraping](https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/)
 * [Crash Course Scraping with XPath+Selenium](https://www.youtube.com/watch?v=jraDTvKLLvY)
 * [Books.toscrape.com](https://books.toscrape.com/ )
 * [XPather](http://xpather.com/ 
@@ -49,6 +52,9 @@ While there are a rapidly growing number of public datasets, they often are best
 
 ## Optional Additional References
 
+* [PEP8 Style Guidelines](https://peps.python.org/pep-0008/)
+* [Virtual Environments in Python (13:32)](https://www.youtube.com/watch?v=IAvAlS0CuxI)
 * [Always Check for the Hidden API when Web Scraping (11:49)](https://www.youtube.com/watch?v=DqtlR0y0suo)
 * [Web Scraping with Professional Proxy Servers (32:25)](https://www.youtube.com/watch?v=hh8UHmkymik)
 * [Selenium Browser Automation in Python (21:37)](https://www.youtube.com/watch?v=SPM1tm2ZdK4)
+* [XPath Test Evaluator](https://www.freeformatter.com/xpath-tester.html#xpath-examples)

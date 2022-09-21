@@ -5,9 +5,11 @@
 
 ## Overview
 
-The most popular stereotype of data is in the form of numeric tables or spreadsheets. In this course we introduce the other prominent classes of more complex data types. This includes geospatial, time series and network graphs which respectively emphasize the additional dimensional properties of data. Specifically, we will focus on the geospatial, temporal and network relationships between distinct entities. 
+The most popular stereotype of data is in the form of numeric tables or spreadsheets. In this course we introduce several of the other most prominent types of complex data. This includes natural language, geospatial, time series and network graphs which respectively emphasize the additional dimensional properties of data. Specifically, we will focus on the geospatial, temporal and network relationships between distinct entities (and their attributes).
 
-We begin the course with geospatial data types since this is perhaps the most intuitive for humans to understand, transform and analyze. Python geospatial libraries can be similiarly straightforward given the mental frameworks of Pandas dataframes and set theory. In particular, we will explore the functionality of two popular Python libraries for geospatial mapping: GeoPandas and GeoPy.
+We begin the course with geospatial data types since this is perhaps the most intuitive for humans to understand, transform and analyze. Python geospatial libraries can be similiarly straightforward given the mental frameworks of derived from Pandas dataframes and simple set theory. 
+
+The world of geospatial analytics is vast. It ranges from no-code/low-code Tableau, ArcGIS and QGIS to unique visualizations realized through customized Python/JavaScript code building-upon geospatial resources like OpenMap. Although we'll introduce some of the breath of geospatial analysis, our coding will focus on two popular Python libraries for geospatial mapping: GeoPandas and GeoPy.
 
 ## Applications
 
@@ -31,16 +33,3 @@ We begin the course with geospatial data types since this is perhaps the most in
     * Parts 2 & 3: [Working with Geospatial Data in Python](https://app.datacamp.com/learn/courses/working-with-geospatial-data-in-python)
 - [Friday]  
     * Part 4: [Working with Geospatial Data in Python](https://app.datacamp.com/learn/courses/working-with-geospatial-data-in-python)
-    
-
-
-## Questions:
-
-* Q: What does 'importance' mean in the statement: print(f"Importance: {location.raw['importance']}")
-* A: Somewhat opaque answer in the [Geocoding Archives](https://www.google.com/search?q=nominatim+importance+site%3Ahttps%3A%2F%2Flists.openstreetmap.org%2Fpipermail%2Fgeocoding%2F&oq=nominatim+importance+site%3Ahttps%3A%2F%2Flists.openstreetmap.org%2Fpipermail%2Fgeocoding%2F&aqs=chrome..69i57.1441j0j15&sourceid=chrome&ie=UTF-8)
-
-## Project Ideas
-
-* Find at least 2 disparate shape/location datafiles and plot them both onto the same map using GeoPy.
-
-

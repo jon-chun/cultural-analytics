@@ -23,7 +23,7 @@ NLP is a fascinating field of study since language is intimately tied to much of
 ## Applications
 
 - [Monday]: 
-    * [Film Dialog from 20,000 Screenplays Broken Down by Gender and Age](https://pudding.cool/2017/03/film-dialogue/)
+    * [Ultimate Guide to Understand and Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
 - [Wednesday]: 
     * [Narrative Paths and Negotiation of Power in Birth Stories](https://dl.acm.org/doi/pdf/10.1145/3359190), Nov 2019, M.Antoniak, Proceedings ACM Human-Computer Interaction 
 - [Friday]: 
@@ -35,7 +35,9 @@ NLP is a fascinating field of study since language is intimately tied to much of
 * DataCamp [Introduction to Natural Language Processing in Python](https://app.datacamp.com/learn/courses/introduction-to-natural-language-processing-in-python)
 
 
+## References
 
+* [NLP Jupyter Notebooks](https://github.com/NirantK/NLP_Quickbook)
 
 
 

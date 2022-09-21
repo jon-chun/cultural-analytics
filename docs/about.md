@@ -18,14 +18,14 @@ Her many lectures on French literature and the modern novel are available on aud
 Professor Elkins’ research interests include literature and philosophy, modernist studies, cognitive studies, artificial intelligence, digital humanities and cultural analytics.
 
 **EDUCATION**
-2002 — Doctor of Philosophy from Univ. of California Berkeley
-1990 — Bachelor of Arts from Yale University
+* 2002 — Doctor of Philosophy from Univ. of California Berkeley
+* 1990 — Bachelor of Arts from Yale University
 
 **RECENT COURSES**
-CWL/IPHS 191/200 – Programming Humanity (2017-2022)
-IPHS 290 - Cultural Analytics (2022)
-CWL/IPHS 391/300 – Artificial Intelligence for the Humanities (2018-2022)
-IPHS Senior Seminar (Computational DH) - (2015-2022)
+* CWL/IPHS 191/200 – Programming Humanity (2017-2022)
+* IPHS 290 - Cultural Analytics (2022)
+* CWL/IPHS 391/300 – Artificial Intelligence for the Humanities (2018-2022)
+* IPHS Senior Seminar (Computational DH) - (2015-2022)
 
 ## Jon Chun
 
@@ -33,24 +33,27 @@ Email: chunj@kenyon.edu
 Twitter: [@jonchun2000](https://twitter.com/jonchun2000)  
 [Google Scholar](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en&oi=ao)  
 
-Jon Chun has degrees in electrical engineering, computer science and biomedical engineering with a focus on cognitive science from UC Berkeley and UT Austin. As a post-graduate American Heart Research Fellow, he conducted and published research in both gene therapy and medical informatics.  He has also worked for the Advanced Light Source Group at Lawrence Berkeley Laboratory and the semiconductor research consortium SEMATECH in Austin.  His research interests include Machine Learning, Artificial Intelligence, Data Analytics, Natural Language Processing and Affective AI.
+Jon Chun has degrees in electrical engineering, computer science and biomedical engineering with a focus on cognitive science from UC Berkeley and UT Austin. As a post-graduate American Heart Research Fellow, he conducted and published research in gene therapy and medical informatics.  He has also worked for the Advanced Light Source Group at Lawrence Berkeley Laboratory and the semiconductor research consortium SEMATECH in Austin.  His research interests include Machine Learning, Artificial Intelligence, Data Analytics, Natural Language Processing, Affective AI and XAI/FATE.
 
-Professor Chun has co-founded several startups including as CEO and COO of the world’s largest anonymity service backed by large Wall Street hedge funds and the CIA’s venture fund In-Q-Tel. His specialization in cross-cultural experiences of technology stems from working and studying throughout the US, Europe, Asia and Latin America including the US Foreign Service Spanish Exam and the 日本語能力試験 (Japanese). Before arriving in Gambier he was a Director of Development for the world’s largest computer security corporations in Silicon Valley and Entrepreneur in Residence at UC Berkeley.
+Professor Chun has co-founded several startups including as CEO and COO of the world’s largest anonymity service backed by large Wall Street hedge funds and the CIA’s venture fund In-Q-Tel. His specialization in cross-cultural experiences of technology stems from working and studying throughout the US, Europe, Asia and Latin America including the US Foreign Service Spanish Exam and the 日本語能力試験 (Japanese). Before arriving in Gambier he was a Director of Development for the world’s largest computer security corporation in Silicon Valley and Entrepreneur in Residence at UC Berkeley.
 
-Jon is interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. Since 2017 his courses, Programming Humanity and AI for the Humanities, have been the first curriculum specifically designed to bridge the gap between technology and the Humanities by provided an integrated intellectual framework grounded in the liberal arts and Artificial Intelligence.
+Jon is interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. Since 2017 his courses, Programming Humanity and AI for the Humanities, have been the first curriculum specifically designed to bridge the gap between technology and the Humanities by provided an integrated intellectual framework grounded in the Liberal Arts and Artificial Intelligence.
 
 **AREAS OF EXPERTISE**
 Data Analytics, Machine Learning and AI, Network Security, FinTech, MedTech, Biomedical Engineering.
 
 **EDUCATION**
-1995 — Master of Science from University of Texas at Austin
-1989 — Bachelor of Science from Univ. of California Berkeley
+* 1996 - American Heart Assoc Research Fellow, University of Iowa Medical School
+* 1995 - Master of Science from University of Texas at Austin
+* 1993 - MIT Japan Program Scholar (sponsored NSF and US Navy)
+* 1989 - Bachelor of Science from Univ. of California Berkeley
 
 **RECENT COURSES**
-CWL/IPHS 191/200 – Programming Humanity (2017 – 2020)
-IPHS 290 - Cultural Analytics (2022)
-CWL/IPHS 391/300 – Artificial Intelligence for the Humanities (2018 – 2021)
-IPHS Senior Seminar (Computational DH) - (2020-2022)
+* CWL/IPHS 191/200 – Programming Humanity (2017 – 2020)
+* IPHS 290 - Cultural Analytics (2022)
+* CWL/IPHS 391/300 – Artificial Intelligence for the Humanities (2018 – 2021)
+* IPHS Senior Seminar (Computational DH) - (2020-2022)
+* SciComp Independent Study: [Industrial Internet of Things (IIoT) Strategic and Technical Consultating Project](https://github.com/jon-chun/iiot-time-series-prediction-system)
 
 ## IPHS Computational Digital Humanities Research
 

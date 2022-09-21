@@ -12,4 +12,16 @@
 
 ## Overview
 
-Cultural analytics is the study of society and social phenomena by analyzing data and the way it flows. This course presumes some coding experience or the introductory course to Digital Humanities, Programming Humanity. We start my visualizing geospatial data via maps and charts. We’ll build on our skills using API’s to create original datasets from social media sites like Twitter. Then we’ll develop natural language processing skills including sentiment analysis and topic clustering to explore text for insights. We’ll also learn how to graph and explore social networks. In class, we’ll do some hands-on projects like analyzing the social network of Game of Thrones and trying to classify who’s tweeting: Trump or Trudeau. In the final segment of the course, students develop their own project centered on their interests.
+Cultural analytics is the study of society and social phenomena by analyzing data and the way it flows. This course presumes some coding experience or the introductory course to Digital Humanities, [IPHS 200 Programming Humanity](https://programminghumanity.wordpress.com/) or even more advanced course [IPHS 300 AI for the Humanities](https://aiforthehumanities.wordpress.com/). 
+
+We begin with visualizing and analyzing ***geospatial data*** via maps and charts. We’ll build our skills with ***web scraping and API’s*** to create original datasets from websites and services like Twitter, Instagram and YouTube. 
+
+Then we’ll study a vareity of ***natural language processing (NLP)*** subjects from data wrangling to vectorization and topic modeling to state-of-the-art (SOTA) deep neural nets. 
+
+[Narrative sentiment analysis](https://www.cambridge.org/core/what-we-publish/elements/cambridge-elements-series) and [SentimentArcs](https://github.com/jon-chun/sentimentarcs_notebooks) provide a NLP framework to explore the particularities of ***time-series analysis***. 
+
+***Graph theory and network analysis*** introduces new methods to present, relate and compute metrics based on network representations. We study hands-on projects like analyzing the social network of Game of Thrones and trying to classify who’s tweeting: Trump or Trudeau. 
+
+The final week will focus on a variety of methods available to host presentations, ML/AI models or full applications on the web. This includes several ***free and paid web hosting options*** from no-code static blog platforms to dynamic web full-stack virtual servers on cloud hosts like Amazon Web Services.
+
+Students produce a wide variety of individualized stand-alone projects demonstrating specific learned skills. Our course culminates in a final class project centered on both each student's intellectual interests and personal passions implemented using any combination of the tools and techniques presented throughout the semester.
