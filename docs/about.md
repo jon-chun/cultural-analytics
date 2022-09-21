@@ -36,15 +36,15 @@ Email: chunj@kenyon.edu
 Twitter: [@jonchun2000](https://twitter.com/jonchun2000)  
 [Google Scholar](https://scholar.google.com/citations?user=l-iUHQMAAAAJ&hl=en&oi=ao)  
 
-Jon Chun has degrees in electrical engineering, computer science and biomedical engineering with a focus on cognitive science from UC Berkeley and UT Austin. As a post-graduate American Heart Research Fellow, he conducted and published research in gene therapy and medical informatics.  He has also worked for the Advanced Light Source Group at Lawrence Berkeley Laboratory and the semiconductor research consortium SEMATECH in Austin.  His research interests include Machine Learning, Artificial Intelligence, Data Analytics, Natural Language Processing, Affective AI and XAI/FATE.
+Jon Chun has degrees in electrical engineering, computer science and biomedical engineering with a focus on cognitive science from UC Berkeley and UT Austin. As a post-graduate American Heart Research Fellow, he conducted and published research in gene therapy and medical informatics.  He has also worked for the Advanced Light Source Group at Lawrence Berkeley Laboratory and the semiconductor research consortium SEMATECH in Austin.  His research interests include Machine Learning, Artificial Intelligence, Data Analytics, Natural Language Processing, Affective AI and Explainable AI.
 
-Professor Chun has co-founded several startups including as CEO and COO of the world’s largest anonymity service backed by large Wall Street hedge funds and the CIA’s venture fund In-Q-Tel. His specialization in cross-cultural experiences of technology stems from working and studying throughout the US, Europe, Asia and Latin America including the US Foreign Service Spanish Exam and the 日本語能力試験 (Japanese). Before arriving in Gambier he was a Director of Development for the world’s largest computer security corporation in Silicon Valley and Entrepreneur in Residence at UC Berkeley.
+Professor Chun has co-founded several startups including as CEO and COO of the world’s largest anonymity service backed by large Wall Street hedge funds and the CIA’s venture fund In-Q-Tel. His specialization in cross-cultural experiences of technology stems from working and studying throughout the US, Europe, Asia and Latin America including the US Foreign Service Spanish Exam and the 日本語能力試験 (Japanese). Before arriving in Gambier he was a Director of Development for the world’s largest computer security corporation based in Silicon Valley and Entrepreneur in Residence at UC Berkeley.
 
-Jon is interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. Since 2017 his courses, Programming Humanity and AI for the Humanities, have been the first curriculum specifically designed to bridge the gap between technology and the Humanities by provided an integrated intellectual framework grounded in the Liberal Arts and Artificial Intelligence.
+Jon is interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. In 2017 his courses Programming Humanity and AI for the Humanities were the world's first AI curriculum bridging the gap between technology and the Humanities by provided an integrated intellectual framework grounded in both the Liberal Arts and Artificial Intelligence.
 
 **AREAS OF EXPERTISE**
 
-Data Analytics, Machine Learning and AI, Network Security, FinTech, MedTech, Biomedical Engineering.
+Data Analytics, Machine Learning and AI, NLP, Time Series, Network Security, FinTech, MedTech, XAI/FATE, Chatbots, IoT.
 
 **EDUCATION**
 
