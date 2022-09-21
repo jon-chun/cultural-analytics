@@ -15,13 +15,16 @@ Katherine Elkins is founder of Kenyon’s Comparative World Literature Program a
 Her many lectures on French literature and the modern novel are available on audible.com, and her research has been published in journals like Comparative Literature Studies, Modern Language Quarterly, Modernism/Modernity, Discourse and The French Review. She has also presented research at conferences both nationally and internationally, and is editor and contributor of the Oxford Studies in Literature and Philosophy: Proust (forthcoming). She and Jon Chun are presently developing new computational approaches to literary analysis.
 
 **AREAS OF EXPERTISE**
+
 Professor Elkins’ research interests include literature and philosophy, modernist studies, cognitive studies, artificial intelligence, digital humanities and cultural analytics.
 
 **EDUCATION**
+
 - 2002 — Doctor of Philosophy from Univ. of California Berkeley
 - 1990 — Bachelor of Arts from Yale University
 
 **RECENT COURSES**
+
 - CWL/IPHS 191/200 – Programming Humanity (2017-2022)
 - IPHS 290 - Cultural Analytics (2022)
 - CWL/IPHS 391/300 – Artificial Intelligence for the Humanities (2018-2022)
@@ -40,15 +43,18 @@ Professor Chun has co-founded several startups including as CEO and COO of the w
 Jon is interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. Since 2017 his courses, Programming Humanity and AI for the Humanities, have been the first curriculum specifically designed to bridge the gap between technology and the Humanities by provided an integrated intellectual framework grounded in the Liberal Arts and Artificial Intelligence.
 
 **AREAS OF EXPERTISE**
+
 Data Analytics, Machine Learning and AI, Network Security, FinTech, MedTech, Biomedical Engineering.
 
 **EDUCATION**
+
 - 1996 - American Heart Assoc Research Fellow, University of Iowa Medical School
 - 1995 - Master of Science from University of Texas at Austin
 - 1993 - MIT Japan Program Scholar (sponsored NSF and US Navy)
 - 1989 - Bachelor of Science from Univ. of California Berkeley
 
 **RECENT COURSES**
+
 - CWL/IPHS 191/200 – Programming Humanity (2017 – 2020)
 - IPHS 290 - Cultural Analytics (2022)
 - CWL/IPHS 391/300 – Artificial Intelligence for the Humanities (2018 – 2021)
