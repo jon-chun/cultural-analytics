@@ -18,14 +18,14 @@ Her many lectures on French literature and the modern novel are available on aud
 Professor Elkins’ research interests include literature and philosophy, modernist studies, cognitive studies, artificial intelligence, digital humanities and cultural analytics.
 
 **EDUCATION**
-* 2002 — Doctor of Philosophy from Univ. of California Berkeley
-* 1990 — Bachelor of Arts from Yale University
+- 2002 — Doctor of Philosophy from Univ. of California Berkeley
+- 1990 — Bachelor of Arts from Yale University
 
 **RECENT COURSES**
-* CWL/IPHS 191/200 – Programming Humanity (2017-2022)
-* IPHS 290 - Cultural Analytics (2022)
-* CWL/IPHS 391/300 – Artificial Intelligence for the Humanities (2018-2022)
-* IPHS Senior Seminar (Computational DH) - (2015-2022)
+- CWL/IPHS 191/200 – Programming Humanity (2017-2022)
+- IPHS 290 - Cultural Analytics (2022)
+- CWL/IPHS 391/300 – Artificial Intelligence for the Humanities (2018-2022)
+- IPHS Senior Seminar (Computational DH) - (2015-2022)
 
 ## Jon Chun
 
@@ -43,17 +43,17 @@ Jon is interested in bringing diverse voices to urgent debates surrounding techn
 Data Analytics, Machine Learning and AI, Network Security, FinTech, MedTech, Biomedical Engineering.
 
 **EDUCATION**
-* 1996 - American Heart Assoc Research Fellow, University of Iowa Medical School
-* 1995 - Master of Science from University of Texas at Austin
-* 1993 - MIT Japan Program Scholar (sponsored NSF and US Navy)
-* 1989 - Bachelor of Science from Univ. of California Berkeley
+- 1996 - American Heart Assoc Research Fellow, University of Iowa Medical School
+- 1995 - Master of Science from University of Texas at Austin
+- 1993 - MIT Japan Program Scholar (sponsored NSF and US Navy)
+- 1989 - Bachelor of Science from Univ. of California Berkeley
 
 **RECENT COURSES**
-* CWL/IPHS 191/200 – Programming Humanity (2017 – 2020)
-* IPHS 290 - Cultural Analytics (2022)
-* CWL/IPHS 391/300 – Artificial Intelligence for the Humanities (2018 – 2021)
-* IPHS Senior Seminar (Computational DH) - (2020-2022)
-* SciComp Independent Study: [Industrial Internet of Things (IIoT) Strategic and Technical Consultating Project](https://github.com/jon-chun/iiot-time-series-prediction-system)
+- CWL/IPHS 191/200 – Programming Humanity (2017 – 2020)
+- IPHS 290 - Cultural Analytics (2022)
+- CWL/IPHS 391/300 – Artificial Intelligence for the Humanities (2018 – 2021)
+- IPHS Senior Seminar (Computational DH) - (2020-2022)
+- SciComp Independent Study: [Industrial Internet of Things (IIoT) Strategic and Technical Consultating Project](https://github.com/jon-chun/iiot-time-series-prediction-system)
 
 ## IPHS Computational Digital Humanities Research
 
