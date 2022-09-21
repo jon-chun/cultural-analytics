@@ -12,11 +12,11 @@
 
 ## Overview
 
-Cultural analytics refers to the collection, analysis, modeling and visualization of data for the exploration of contemporary and historical cultures. This is an advanced methods course focused on the most significant complex data types and representations that expand the possibilities of cultural analysis research.
+Computational cultural analytics refers to the collection, analysis, modeling and visualization of data for the exploration of contemporary and historical cultures. Driven by domain expertise from study in traditional fields like political science or literary criticism, computational methods augment research by incorporating the analysis of data created by constitutent entities and their interactions (e.g. social media, government documents, contextualizing financial narratives, etc).
 
-Cultural analytics studies society and social phenomena by analyzing data created by constitutent entities and their interactions. This course presumes some coding experience or the introductory course to Digital Humanities, [IPHS 200 Programming Humanity](https://programminghumanity.wordpress.com/) or the even more advanced course [IPHS 300 AI for the Humanities](https://aiforthehumanities.wordpress.com/). 
+This is an advanced methods course focused on learning to work with complex data types. The topics learned in this course will dramatically expand the possibilities of your future research in cultural analysis and generalize to analysis in any domain. This course presumes some coding experience or the introductory course to Digital Humanities, [IPHS 200 Programming Humanity](https://programminghumanity.wordpress.com/) or the even more advanced course [IPHS 300 AI for the Humanities](https://aiforthehumanities.wordpress.com/). 
 
-We begin with visualizing and analyzing ***geospatial data*** via maps and charts. We’ll build our skills with ***web scraping and API’s*** to create original datasets from websites and services like Twitter, Instagram and YouTube. 
+We begin the course with visualizing and analyzing ***geospatial data*** via maps and charts. We’ll build our skills with ***web scraping and API’s*** to create original datasets from websites and services like Twitter, Instagram and YouTube. 
 
 Then we’ll study a variety of ***natural language processing (NLP)*** subjects from data wrangling to vectorization and topic modeling to state-of-the-art (SOTA) deep neural nets. 
 
