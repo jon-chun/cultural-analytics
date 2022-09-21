@@ -12,6 +12,8 @@
 
 ## Overview
 
+Cultural analytics refers to the collection, analysis, modeling and visualization of data for the exploration of contemporary and historical cultures. This is an advanced methods course focused on the most significant complex data types and representations that expand the possibilities of cultural analysis research.
+
 Cultural analytics studies society and social phenomena by analyzing data created by constitutent entities and their interactions. This course presumes some coding experience or the introductory course to Digital Humanities, [IPHS 200 Programming Humanity](https://programminghumanity.wordpress.com/) or the even more advanced course [IPHS 300 AI for the Humanities](https://aiforthehumanities.wordpress.com/). 
 
 We begin with visualizing and analyzing ***geospatial data*** via maps and charts. We’ll build our skills with ***web scraping and API’s*** to create original datasets from websites and services like Twitter, Instagram and YouTube. 
