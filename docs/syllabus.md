@@ -51,9 +51,10 @@ This is a methods class focused on learning both the conceptual and practical ap
 By the end of this course you will:
 
 * Deepen your proficiency in Python, data visualization, and data wrangling
-* Learn core Natural Language Processing techniques including scraping, cleaning, transforming and analyzing text
-* Learn fundamental geospatial mapping 
-* Learn fundamental graph theory and applications
+* Learn the fundamentals of geospatial analytics 
+* Learn core Natural Language Processing techniques including scraping, cleaning, representing, transforming and analyzing text
+* Learn the fundamentals time series analysis  
+* Learn basic graph theory, algorithms, metrics and visualizations
 * Present your code on Github and project on a personal website
 * Learn how to identify interesting multi-disciplinary research questions and judiciously use a wide range of computational technologies to analyze, critique and productively address such questions
 
