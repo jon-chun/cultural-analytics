@@ -5,6 +5,10 @@
 
 ## Overview
 
+Data is the Alpha and Omega of Data Science, Machine Learning and Deep Learning. The creativity, expressiveness and strength of your analysis will be bounded by the data you have. The quality of your dataset can be measured along many dimensions including the type/number of features, originality, number of datapoints, accuracy, coherence, etc.
+
+While there are a rapidly growing number of public datasets, they often are best used for tutorials, training and establishing baseline metrics. It is extremely difficult to create new, innovative and meaningful data analysis based upon datasets already mined by others. This week we study Web Scraping and APIs so you will be able to create your own unique datasets based upon the wide variety and vast quantity of information available on the Web. 
+
 Data constantly flows constantly in networks under **two basic paradigms**. First, Information intended for humans exit computer networks via a interactive and/or visual interfaces. These include (a) a widows-based ***Graphical User Interfaces (GUIs)*** like those in MacOS and WindowsOS, and (b) a text-based *interactive REPL command line shell* (read-execute-print-loop) .
 
 ***Machine-to-Human GUIs*** are carefully designed to represent, architect, and sequence information to leverage human intuitions and cognitive processes. Unfortunately, programmatically scraping data from web GUIs can be slow, error-prone, fragile and (in many cases) impossible due to the limited resources, continual design updates, technical anti-scraping barriers and legal concerns. Web scraping can be viable for creating unique datasets based upon simpler open web sites or for harvesting smaller high-value data. 
