@@ -12,7 +12,7 @@
 
 ## Overview
 
-Computational cultural analytics refers to the collection, analysis, modeling and visualization of data for the exploration of contemporary and historical cultures. Driven by domain expertise from study in traditional fields like political science or literary criticism, computational methods augment research by incorporating the analysis of data created by constitutent entities and their interactions (e.g. social media, government documents, contextualizing financial narratives, etc).
+Computational cultural analytics refers to the collection, analysis, modeling and visualization of data for the exploration of contemporary and historical cultures. Driven by domain expertise from study in traditional fields like political science or literary criticism, computational methods augment research by incorporating the analysis of data created by constituent entities and their interactions (e.g. social media, government documents, contextualizing financial narratives, etc).
 
 This is an advanced methods course focused on learning to work with complex data types. The topics learned in this course will dramatically expand the possibilities of your future research in cultural analysis and generalize to analysis in any domain. This course presumes some coding experience or the introductory course to Digital Humanities, [IPHS 200 Programming Humanity](https://programminghumanity.wordpress.com/) or the even more advanced course [IPHS 300 AI for the Humanities](https://aiforthehumanities.wordpress.com/). 
 
@@ -26,4 +26,4 @@ Then we’ll study a variety of ***natural language processing (NLP)*** subjects
 
 The final week will focus on a variety of options to share presentations, ML/AI models or applications on the web. This includes several ***free and paid web hosting options*** from no-code static blog platforms to dynamic web full-stack virtual servers on cloud hosts like Amazon Web Services.
 
-Students produce a wide variety of individualized stand-alone projects to demonstrate specific learned skills. Our course culminates in a final class project based on each student's intellectual interests and personal passions. These compelling narratives are reconcieved and implemented using any combination of the technologies and techniques presented throughout the semester.
+Students produce a wide variety of individualized stand-alone projects to demonstrate specific learned skills. Our course culminates in a final class project based on each student's intellectual interests and personal passions. These compelling narratives are reconceived and implemented using any combination of the technologies and techniques presented throughout the semester.
