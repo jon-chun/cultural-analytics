@@ -39,6 +39,7 @@ This week introduces common web scraping tools and programming practices. It is 
 * [VSCode](https://code.visualstudio.com/download)
 * [Thunder VS Code Plugin for APIs](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 * [Virtual Environments with venv](https://voxel51.com/docs/fiftyone/getting_started/virtualenv.html)
+* 
 ## New Python Libraries
 
 * [virtualenv](https://docs.python-guide.org/dev/virtualenvs/)
@@ -59,6 +60,8 @@ This week introduces common web scraping tools and programming practices. It is 
 * [Books.toscrape.com](https://books.toscrape.com/ )
 * [XPather](http://xpather.com/ 
 )
+* Chrome Extension: [Google Chrome Free Web Scraper](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=en) [Tutorial](https://www.youtube.com/watch?v=BRyfnI6Jtzs )
+* Chrome Extension: [Instant Data Scraper](https://chrome().google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?hl=en-US)
 * [Selinum Browser Automation](https://www.youtube.com/watch?v=SPM1tm2ZdK4&t=3s)
 
 
