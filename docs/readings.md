@@ -14,8 +14,8 @@
 
 ## Data and Bots
 
-* (first 1/2 of week 4) [Web Scraping](scraping.md)
-* (second 1/2 of week 4) [Talking to APIs](api.md)
+* [Web Scraping](scraping.md)
+* [Talking to APIs](api.md)
 * Intro NLP <!-- [Intro NLP](nlp_intro.md) -->
 * Social Networks <!-- [Social Networks](networks.md) -->
 
