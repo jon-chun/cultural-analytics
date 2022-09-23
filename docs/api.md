@@ -24,26 +24,25 @@ This week introduces common web scraping tools and programming practices. It is 
 ## Applications
 
 - [Monday]: 
-    * [goto Web Scraping](./scraping.md)
+    * (last Friday's Video)[BA 322 | Scrape Zappos with Chrome Extension: Free Web Scraper (27:50)](https://www.youtube.com/watch?v=BRyfnI6Jtzs)
+    * Find Website and Scrape with Chrome Plugin, esp with Geolocation data (e.g. [MarineTraffic.com](https://www.marinetraffic.com/)) and scrape with Chrome Extension
+    * [Visual Studio Code 2022 (19:36)](https://www.youtube.com/watch?v=fJEbVCrEMSE&t=913s)
+    * [Virtual Environments in Python - Crash Course (13:32)](https://www.youtube.com/watch?v=IAvAlS0CuxI&t=460s)
+    * Presentation
+    * Bring Website to Scrape (pref w/Geo Longitude/Latitude)
 - [Wednesday]: 
-    * [goto Web Scraping](./scraping.md)
     * [Step-by-Step Guide to Making Your First Request to the New Twitter API](https://developer.twitter.com/en/docs/tutorials/step-by-step-guide-to-making-your-first-request-to-the-twitter-api-v2))
     * [Twitter API with Python (Complete Guide)](https://www.jcchouinard.com/twitter-api/)
+    * [GitHub Tutorial - Beginner's Training Guide (8:11)](https://www.youtube.com/watch?v=iv8rSLsi1xo)
+    * [Git - The Simple Guide](http://up1.github.io/git-guide/index.html)
 - [Friday]: 
-    * Review Map Projects
-    * Setup Github Repos
     * [Automated Twitter Bot in Python (19:02)](https://www.youtube.com/watch?v=UGv_bJkF1kg)
     * Datacamp.com [Intermediate Importing Data in Python (2hrs) Chp 1-4](https://app.datacamp.com/learn/courses/intermediate-importing-data-in-python)
+    * [Python MySQL Tutorial - Setup & Basics (13:09)](https://www.youtube.com/watch?v=3vsC05rxZ8c)
+    * [How to Save Data to MySQL Database (23:42)](https://www.youtube.com/watch?v=suVCVAuF5MU)
 
 
-## Coding Practice
+## Software to Install
 
-* Datacamp.com [Intermediate Importing Data in Python (2hrs)](https://app.datacamp.com/learn/courses/intermediate-importing-data-in-python)
-
-
-## Additional References (Optional)
-
-* REST vs GraphQL
-* FastAPI & Uvicorn
-* Postman vs Insomnia vs VSCode+Thunder
-* Cloud, Microservices & SaaS
+- [MySQL Server](https://dev.mysql.com/downloads/) for **MacOS** (MySQL Community Server) or **Windows** (MySQL Installer for Windows) - Don't need Oracle Account, Select 'Developer Default'
+- **VSCode Extension: MySQL** by Jun Han

@@ -31,45 +31,33 @@ This week introduces common web scraping tools and programming practices. It is 
     *  Datacamp.com [Web Scraping in Python (1hrs) Chp 3](https://app.datacamp.com/learn/courses/web-scraping-with-python)
     * [goto API](./api.md)
 - [Friday]: 
-    * [goto API](./api.md)
-
+    * [Scrape Data From Zappos.com with Chrome Extension: Free Web Scraper](https://www.youtube.com/watch?v=BRyfnI6Jtzs)
+  *  [Practical XPath for Web Scraping](https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/)
 
 ## Software to Install
 
 * [VSCode](https://code.visualstudio.com/download)
 * [Thunder VS Code Plugin for APIs](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 * [Virtual Environments with venv](https://voxel51.com/docs/fiftyone/getting_started/virtualenv.html)
-* 
+
 ## New Python Libraries
 
 * [virtualenv](https://docs.python-guide.org/dev/virtualenvs/)
 * [requests.py](https://requests.readthedocs.io/en/latest/)
 * [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [lxml](https://lxml.de/)
-* [Selenium](https://github.com/SeleniumHQ/selenium)
-* [webdriver-manager](https://github.com/SergeyPirogov/webdriver_manager)
-* (Optional) [Scrapy](https://github.com/scrapy/scrapy)
 
 
 ## In-Class Lab
 * [HTML & CSS Crash Course Tutorial #7 - Chrome Dev Tools](https://www.youtube.com/watch?v=25R1Jl5P7Mw)
 * [How to find xpath in Chrome (4:06)](https://www.youtube.com/watch?v=JanCuJSAzhc)
 * [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
-* (Reference: Table at top of article) [Practical XPath for Web Scraping](https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/)
-* [Crash Course Scraping with XPath+Selenium](https://www.youtube.com/watch?v=jraDTvKLLvY)
 * [Books.toscrape.com](https://books.toscrape.com/ )
 * [XPather](http://xpather.com/ 
 )
 * Chrome Extension: [Google Chrome Free Web Scraper](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=en) [Tutorial](https://www.youtube.com/watch?v=BRyfnI6Jtzs )
-* Chrome Extension: [Instant Data Scraper](https://chrome().google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?hl=en-US)
-* [Selinum Browser Automation](https://www.youtube.com/watch?v=SPM1tm2ZdK4&t=3s)
-
 
 ## Optional Additional References
 
 * [PEP8 Style Guidelines](https://peps.python.org/pep-0008/)
 * [Virtual Environments in Python (13:32)](https://www.youtube.com/watch?v=IAvAlS0CuxI)
-* [Always Check for the Hidden API when Web Scraping (11:49)](https://www.youtube.com/watch?v=DqtlR0y0suo)
-* [Web Scraping with Professional Proxy Servers (32:25)](https://www.youtube.com/watch?v=hh8UHmkymik)
-* [Selenium Browser Automation in Python (21:37)](https://www.youtube.com/watch?v=SPM1tm2ZdK4)
-* [XPath Test Evaluator](https://www.freeformatter.com/xpath-tester.html#xpath-examples)
