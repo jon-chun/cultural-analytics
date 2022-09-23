@@ -58,4 +58,5 @@ Make sure you completed last week's DataCamp:
 ## In-Class Lab
 * Setup Virtual Environments w/VS Code
 * Scrape Twitter
+* Manipulate w/JSON
 * Save to MySQL Database
