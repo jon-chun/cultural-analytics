@@ -42,7 +42,7 @@ Make sure you completed last week's DataCamp:
 
 
 - [Friday]: 
-    * [Automated Twitter Bot in Python (19:02)](https://www.youtube.com/watch?v=UGv_bJkF1kg)
+    * (From Last Week) [Automated Twitter Bot in Python (19:02)](https://www.youtube.com/watch?v=UGv_bJkF1kg)
     * [How to use JSON in Python (6:10)](https://www.youtube.com/watch?v=-51jxlQaxyA&t=2s)
     * [Python MySQL Tutorial - Setup & Basics (13:09)](https://www.youtube.com/watch?v=3vsC05rxZ8c)
     * [MySQL - The Basics (17:16)](https://www.youtube.com/watch?v=Cz3WcZLRaWc)
