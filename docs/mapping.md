@@ -5,14 +5,7 @@
 
 ## Overview
 
-The most popular stereotype of data is in the form of relatively small and structured numeric data commonly found in spreadsheets. In fact, the the most common and fastest growing type of data is unstructured data: raw text, sound, images and videos. We compile, transform, model, visualize and analyze both of these datatype in [IPHS 300: AI for the Humanities](https://aiforthehumanities.wordpress.com/). 
-
-This course introduces methods to work with different and popular composite datatypes including geospatial, time series and network graphs. These big 3 composite data types each have distinct internal structure based upon spatial, temporal or semantic correlations. Each of these data types have their own distinctive methods, libraries and critiques which we explore via both leading academic DH scholarship and practical technical implementations.
-
-
-The most popular stereotype of data is in the form of numeric tables or spreadsheets. In this course we introduce several of the other most prominent types of complex data. This includes natural language, geospatial, time series and network graphs which respectively emphasize the additional dimensional properties of data. Specifically, we will focus on the geospatial, temporal and network relationships between distinct entities (and their attributes).
-
-We begin the course with geospatial data types since this is perhaps the most intuitive for humans to understand, transform and analyze. Python geospatial libraries can be similiarly straightforward given the mental frameworks of derived from Pandas dataframes and simple set theory. 
+In this course, the world of geospatial analytics is perhaps the most narrowly focused in purpose yet highly fragmented in term of methodology.  Although maps can be used to tell complex and compelling stories, the workflow for generating maps themselves is relatively straightforward: create a basemap and add one or more informative layers. This is the same whether using advanced mapping software with drag-n-drop, no-code functionality (e.g. ArcGIS, Tableau or QGIS) or programming with popular mapping libraries (e.g. Leaflet.js, GeoPandas)
 
 The world of geospatial analytics is vast. It ranges from no-code/low-code Tableau, ArcGIS and QGIS to unique visualizations realized through customized Python/JavaScript code building-upon geospatial resources like OpenMap. Although we'll introduce some of the breath of geospatial analysis, our coding will focus on two popular Python libraries for geospatial mapping: GeoPandas and GeoPy.
 
