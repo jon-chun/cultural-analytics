@@ -26,13 +26,14 @@ This week introduces common web scraping tools and programming practices. It is 
 - [Monday]: 
     * [Web Scraping Basics in Python (19:47)](https://www.youtube.com/watch?v=myAFVM7CxWk)
     *  Datacamp.com [Web Scraping in Python (2hrs) Chp 1 & 2](https://app.datacamp.com/learn/courses/web-scraping-with-python)
+  
 - [Wednesday]: 
     * [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
     *  Datacamp.com [Web Scraping in Python (1hrs) Chp 3](https://app.datacamp.com/learn/courses/web-scraping-with-python)
-    * [goto API](./api.md)
+  
 - [Friday]: 
     * [Scrape Data From Zappos.com with Chrome Extension: Free Web Scraper](https://www.youtube.com/watch?v=BRyfnI6Jtzs)
-  *  [Practical XPath for Web Scraping](https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/)
+    *  [Practical XPath for Web Scraping](https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/)
 
 ## Software to Install
 

@@ -15,7 +15,7 @@ Data constantly flows constantly in networks under **two basic paradigms**. Firs
 
 To web scrape effectively, you will need to learn several core concepts. Content (HTML) and presentation (CSS) metatags organize data within a web page. Specific data within a web page can be uniquely identified and extracted using XPath notation and Beautiful Soup 4. Web frameworks and designs change frequently, are often deeply nested in human-unfriendly fashion and follow no universal pattern which makes web scraping a constant challenge.
 
-Secondly, ***machine-to-machine API communications*** at the application layer are governed by strictly defined protocols like HTTP/REST and GraphQL passing data in well-structured file formats like JSON and XML. Machine-to-machine communications have the advantages of speed, scalability and programmable automation. Many websites make their data available via open and/or paid access using their own API. Unlike web pages, APIs are data exchange formats are dictated by centralized standards committees, rarely change and share universal best practices which makes exchanging data or creating unique datasets via API fast, efficient and reliable.
+Secondly, ***machine-to-machine API communications*** at the application layer are governed by strictly defined protocols like REST and GraphQL and exchange data in well-structured file formats like JSON and XML. Machine-to-machine communications have the advantages of speed, scalability and programmable automation. Many websites make their data available via open and/or paid access using their own API. In stark contrast to web pages, APIs and data exchange formats are (mostly) precisely defined by specificiations created by centralized standards committees. These standards rarely change and share universal best practices which makes exchanging data or creating unique datasets via APIs fast, efficient and reliable.
 
 This week introduces common web scraping tools and programming practices. It is particularly useful to learn this in a collaborative lab environment since there are so many rules and exceptions to the rule it can be hard to quickly get a functional overview. We’ll also practice automating calls to popular REST API services to compile unique datasets. This includes learning the API for Twitter, Reddit and Instagram as well as the libraries to convert between JSON datafiles and internal Python data types like dicts{} and Pandas DataFrames.
 
@@ -53,7 +53,7 @@ Make sure you completed last week's DataCamp:
 
 - [MySQL Server](https://dev.mysql.com/downloads/) for **MacOS** (MySQL Community Server) or **Windows** (MySQL Installer for Windows) - Don't need Oracle Account, Select 'Developer Default'
 - **VSCode Extension: MySQL** by Jun Han
-
+- (For Windows Only) [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install)
 
 ## In-Class Lab
 * Setup Virtual Environments w/VS Code
