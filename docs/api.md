@@ -47,6 +47,7 @@ Make sure you completed last week's DataCamp:
     * [Python MySQL Tutorial - Setup & Basics (13:09)](https://www.youtube.com/watch?v=3vsC05rxZ8c)
     * [MySQL - The Basics (17:16)](https://www.youtube.com/watch?v=Cz3WcZLRaWc)
     * [How to Save Data to MySQL Database (23:42)](https://www.youtube.com/watch?v=suVCVAuF5MU)
+    * [How to use the Twitter API v2 in Python using Tweepy (43:28)](https://www.youtube.com/watch?v=0EekpQBEP_8)
 
 
 ## Software to Install

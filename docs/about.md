@@ -25,10 +25,10 @@ Professor Elkins’ research interests include literature and philosophy, modern
 
 **RECENT COURSES**
 
-- CWL/IPHS 191/200 – Programming Humanity (2017-2022)
-- IPHS 290 - Cultural Analytics (2022)
-- CWL/IPHS 391/300 – Artificial Intelligence for the Humanities (2018-2022)
-- IPHS Senior Seminar (Computational DH) - (2015-2022)
+- CWL/IPHS 191/200 – [Programming Humanity](https://programminghumanity.wordpress.com/) (2017-2022)
+- IPHS 290 - [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/) (2022)
+- CWL/IPHS 391/300 – [Artificial Intelligence for the Humanities](https://aiforthehumanities.wordpress.com/) (2018-2022)
+- IPHS [Senior Seminar](https://digital.kenyon.edu/dh) (Computational DH) - (2015-2022)
 
 ## Jon Chun
 
@@ -55,10 +55,10 @@ Data Analytics, Machine Learning and AI, NLP, Time Series, Network Security, Fin
 
 **RECENT COURSES**
 
-- CWL/IPHS 191/200 – Programming Humanity (2017 – 2020)
-- IPHS 290 - Cultural Analytics (2022)
-- CWL/IPHS 391/300 – Artificial Intelligence for the Humanities (2018 – 2021)
-- IPHS Senior Seminar (Computational DH) - (2020-2022)
+- CWL/IPHS 191/200 – [Programming Humanity](https://programminghumanity.wordpress.com/) (2017 – 2022)
+- IPHS 290 - [Cultural Analytics](https://jon-chun.github.io/cultural-analytics/) (2022)
+- CWL/IPHS 391/300 – [Artificial Intelligence for the Humanities](https://aiforthehumanities.wordpress.com/) (2018 – 2021)
+- IPHS [Senior Seminar](https://digital.kenyon.edu/dh/) (Computational DH) - (2020-2022)
 - SciComp Independent Study: [Industrial Internet of Things (IIoT) Strategic and Technical Consultating Project](https://github.com/jon-chun/iiot-time-series-prediction-system)
 
 ## IPHS Computational Digital Humanities Research

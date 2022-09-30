@@ -33,7 +33,9 @@ NLP is a fascinating field of study since language is intimately tied to much of
 ## Coding Practice
 
 * DataCamp [Introduction to Natural Language Processing in Python](https://app.datacamp.com/learn/courses/introduction-to-natural-language-processing-in-python)
-
+* Black
+* Flake
+* [Embold](https://embold.io/)
 
 ## References
 
