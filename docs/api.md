@@ -61,3 +61,4 @@ Make sure you completed last week's DataCamp:
 * Scrape Twitter
 * Manipulate w/JSON
 * Save to MySQL Database
+* [SQLite3 Database](https://www.kaggle.com/code/jchun2000/sqlite3-database/edit)
