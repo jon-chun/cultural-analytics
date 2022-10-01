@@ -25,16 +25,16 @@ NLP is a fascinating field of study since language is intimately tied to much of
 ## Applications
 
 - [Monday]: 
-
     * [REST Wiki](https://en.wikipedia.org/wiki/Representational_state_transfer)
     * [HTTP Crash Course & Exploration (upto 16:20)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
     * [What is A RESTful API? (18:30)](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
     * [How to Use the Twitter API v2 in Python Using Tweepy (43:28)](https://www.youtube.com/watch?v=0EekpQBEP_8&t=985s)
-    * 
+
 - [Wednesday]: 
     * [Thunder Client - VSCode Extension (9:01)](https://www.youtube.com/watch?v=o-YUD9qF-eQ)
     * [Building a Simple REST API with FastAPI (37:11)](https://www.youtube.com/watch?v=VSQZl43jFzk) 
     * [Ultimate Guide to Understand and Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
+
 - [Friday]: 
     * **October Break**
 
