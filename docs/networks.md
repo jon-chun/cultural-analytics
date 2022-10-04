@@ -15,7 +15,9 @@ Cultural analytics is the study of society and social phenomena by analyzing dat
     * [Game of Thrones Summary](https://www.youtube.com/watch?v=6N4gEJ_ED98) (7:40) Game of Thrones, Jul 2016
     * [D&D and G a daring tale of Dungeons and Dragons and also Graph (23:27)](https://www.youtube.com/watch?v=t2EUocx3vGQ)
 - [Wednesday]: 
-    * [Not Even the Past: Social Vunerability and the Legacy of Redlining](https://dsl.richmond.edu/socialvulnerability/)
+    * [Programming with NetworkX in Python (24:12)](https://www.youtube.com/watch?v=CPQeSmDGiOQ)
+    * [Network Analysis with Python/NetworkX (20:40)](https://www.youtube.com/watch?v=x6PNcuZk83g)
+    * [Complex network analysis with NetworkX (UPTO 28:00)](https://www.youtube.com/watch?v=ezL7j4nSXpQ)
 - [Friday]:
     * [Land Acquisition and Dispossession: Mapping the Homestead Act, 1863-1912](https://dsl.richmond.edu/panorama/homesteading/)
 
