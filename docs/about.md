@@ -40,7 +40,7 @@ Jon Chun has degrees in electrical engineering, computer science and biomedical 
 
 Professor Chun has co-founded several startups including as CEO and COO of the world’s largest anonymity service backed by large Wall Street hedge funds and the CIA’s venture fund In-Q-Tel. His specialization in cross-cultural experiences of technology stems from working and studying throughout the US, Europe, Asia and Latin America including the US Foreign Service Spanish Exam and the 日本語能力試験 (Japanese). Before arriving in Gambier he was a Director of Development for the world’s largest computer security corporation based in Silicon Valley and Entrepreneur in Residence at UC Berkeley.
 
-Jon is interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. In 2017 his courses Programming Humanity and AI for the Humanities were the world's first AI curriculum bridging the gap between technology and the Humanities by provided an integrated intellectual framework grounded in both the Liberal Arts and Artificial Intelligence.
+Jon is interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. In 2017 he co-created the world's first AI curriculum in Computational Digital Humanities to bridge the gap between technology and the humanity. He publishes on AI and has mentored hundreds of interdisciplinary projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and other subjects.
 
 **AREAS OF EXPERTISE**
 
