@@ -11,12 +11,19 @@ Cultural analytics is the study of society and social phenomena by analyzing dat
 ## Applications
 
 - [Monday]:
-    * [Torn Apart Separado, Project](https://xpmethod.columbia.edu/torn-apart/volume/2/)
-    * [Torn Apart Separado, Summary](https://digitalhumanitiesnow.org/2018/06/editors-choice-torn-apart-separados/)
+    * [Web Scraping with Python, Everything You Need to Know 2022](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+    * [Getting Started with Twitter API ver 2 for Academic Research (DO ALL 8 Modules)](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research)
+    * More coming...
 - [Wednesday]: 
-    * [Not Even the Past: Social Vunerability and the Legacy of Redlining](https://dsl.richmond.edu/socialvulnerability/)
+    * [Scraping Reddit with Python and Beautiful Soup 4](https://www.datacamp.com/tutorial/scraping-reddit-python-scrapy)
+    * [How to Scrape Reddit and Automatically Label Data for NLP (13:07)](https://www.youtube.com/watch?v=8VZhog5C3bU&t=92s)
+    * More coming...
 - [Friday]:
-    * [Land Acquisition and Dispossession: Mapping the Homestead Act, 1863-1912](https://dsl.richmond.edu/panorama/homesteading/)
+    * [How to Scrape Everything from Instagram using Python](https://python.plainenglish.io/scrape-everythings-from-instagram-using-python-39b5a8baf2e5)
+    * [Scraping every post on an Instagram profile with less than 10 lines of Pytho](https://dev.to/chrisgreening/scraping-every-post-on-an-instagram-profile-with-less-than-10-lines-of-python-1n8b)
+    * [Instaloader](https://github.com/instaloader/instaloader)
+    * [Simple Instagram Bot in Python (13:03)](https://www.youtube.com/watch?v=cW7kMeOUr20&t=613s)
+    * More coming...
 
 
 ## Coding Practice

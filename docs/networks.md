@@ -11,6 +11,9 @@ Cultural analytics is the study of society and social phenomena by analyzing dat
 ## Applications
 
 - [Monday]:
+    * [Introduction to Social Network Analysis [1/5]: Main Concepts (15:45)](https://www.youtube.com/watch?v=lnLW6ITFY3M)
+    * [Introduction to Social Network Analysis [2/5]: The Origins (11:02)](https://www.youtube.com/watch?v=hlAwvj60MI4)
+    * 
     * [Network of Thrones](https://www.maa.org/sites/default/files/pdf/Mathhorizons/NetworkofThrones%20%281%29.pdf)
     * [Game of Thrones Summary](https://www.youtube.com/watch?v=6N4gEJ_ED98) (7:40) Game of Thrones, Jul 2016
     * [D&D and G a daring tale of Dungeons and Dragons and also Graph (23:27)](https://www.youtube.com/watch?v=t2EUocx3vGQ)

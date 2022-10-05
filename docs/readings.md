@@ -16,8 +16,8 @@
 
 * [Web Scraping](scraping.md)
 * [Talking to APIs](api.md)
-* [Intro NLP](nlp_intro.md) **(CURRENT WEEK)**
-* Social Networks <!-- (networks.md) -->
+* [Intro NLP](nlp_intro.md) 
+* [Advanced NLP](nlp_advanced.md) **(CURRENT WEEK: Over Oct Break)**
 
 ## Mini-Project #2: Social Networks
 
