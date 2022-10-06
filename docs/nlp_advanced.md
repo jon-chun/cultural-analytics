@@ -5,36 +5,37 @@
 
 ## Overview
 
-
-Cultural analytics is the study of society and social phenomena by analyzing data and the way it flows. This course presumes some coding experience or the introductory course to Digital Humanities, Programming Humanity. We’ll build on our skills using API’s to create original datasets from social media sites like Twitter. Then we’ll develop natural language processing skills including sentiment analysis and topic clustering to explore text for insights. We’ll also learn how to graph and explore social networks. In class, we’ll do some hands-on projects like analyzing the social network of Game of Thrones and trying to classify who’s tweeting: Trump or Trudeau. In the final segment of the course, students develop their own project centered on their interests.
+Despite the title, this week will be going deeper into the theory, tools and practice building datasets based upon APIs. This includes a deeper dive into the new Twitter ver 2 API as well as APIs for Reddit and Instagram. Along the way we'll also become a bit more familiar with our development environment and tools like VSCode, github and Python developer best practices.
 
 ## Applications
 
 - [Monday]:
+    * [Scrape Twitter's FREE v2 Data API (9:17)](https://www.youtube.com/watch?v=s73s9JbZgiY)
     * [Web Scraping with Python, Everything You Need to Know 2022](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+    * [Step-by-step guide to making your first request to the new Twitter API v2](https://developer.twitter.com/en/docs/tutorials/step-by-step-guide-to-making-your-first-request-to-the-twitter-api-v2)
+    * [Getting Started with Twitter (Upto/incl 'Make Your First Request')](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api)
     * [Getting Started with Twitter API ver 2 for Academic Research (DO ALL 8 Modules)](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research)
-    * More coming...
 - [Wednesday]: 
     * [Scraping Reddit with Python and Beautiful Soup 4](https://www.datacamp.com/tutorial/scraping-reddit-python-scrapy)
     * [How to Scrape Reddit and Automatically Label Data for NLP (13:07)](https://www.youtube.com/watch?v=8VZhog5C3bU&t=92s)
-    * More coming...
+    * [Twitter API v2 Sample Endpoints](https://github.com/twitterdev/Twitter-API-v2-sample-code)
+    * [Twitter API v2 Tutorial: Advanced Filtering with GeoData](https://developer.twitter.com/en/docs/tutorials/advanced-filtering-for-geo-data)
+    * [Create & Manage Repositories (This section only)](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
+    * [GitHub Fundamentals](https://developer.twitter.com/en/docs/apps/overview)
 - [Friday]:
     * [How to Scrape Everything from Instagram using Python](https://python.plainenglish.io/scrape-everythings-from-instagram-using-python-39b5a8baf2e5)
     * [Scraping every post on an Instagram profile with less than 10 lines of Pytho](https://dev.to/chrisgreening/scraping-every-post-on-an-instagram-profile-with-less-than-10-lines-of-python-1n8b)
     * [Instaloader](https://github.com/instaloader/instaloader)
     * [Simple Instagram Bot in Python (13:03)](https://www.youtube.com/watch?v=cW7kMeOUr20&t=613s)
-    * More coming...
+    * [Adding Locally Hosted Code to Github](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-with-github-cli)
+   * [GraphQL Basics - Build an app with the SpaceX API (UPTO 6:00 ONLY)](https://www.youtube.com/watch?v=7wzR4Ig5pTI)
 
 
 ## Coding Practice
 
-* DataCamp [Advanced NLP with SpaCy](https://app.datacamp.com/learn/courses/advanced-nlp-with-spacy)
-
-
-## Lab Prep
-
-* [GeoPy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/01-Mapping.html)
-
+* [How to Scrape Instagram](https://proxyway.com/guides/how-to-scrape-instagram)
+* [How to Use VSCode as Client to Test REST API (3:43)](https://www.youtube.com/watch?v=8uyTn4cg8Xc) - settings-demo.json autocorrect
+* [Github Instagram](https://github.com/topics/instagram)
 
 ## Lab Assignment
 
