@@ -5,7 +5,7 @@
 
 ## Overview
 
-Despite the title, this week will be going deeper into the theory, tools and practice building datasets based upon APIs. This includes a deeper dive into the new Twitter ver 2 API as well as APIs for Reddit and Instagram. Along the way we'll also become a bit more familiar with our development environment and tools like VSCode, github and Python developer best practices.
+Despite the title, this week will take a deeper dive into the theory, tools and practice building datasets based upon APIs. This includes a more exhaustive exploration of the new Twitter ver 2 API as well as overviews of APIs for Reddit and Instagram. Along the way we'll also become a bit more familiar with our new development environment and tools like VSCode, github and Python developer best practices.
 
 ## Applications
 
