@@ -37,9 +37,6 @@ Despite the title, this week will be going deeper into the theory, tools and pra
 * [How to Use VSCode as Client to Test REST API (3:43)](https://www.youtube.com/watch?v=8uyTn4cg8Xc) - settings-demo.json autocorrect
 * [Github Instagram](https://github.com/topics/instagram)
 
-## Lab Assignment
-
-Find at least 2 disparate shape/location datafiles and plot them both onto the same map using GeoPy.
 
 
 
