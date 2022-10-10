@@ -16,6 +16,7 @@ Despite the title, this week is a deeper dive into the theory, tools and practic
     * [Getting Started with Twitter (Upto/incl 'Make Your First Request')](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api)
     * [Getting Started with Twitter API ver 2 for Academic Research (DO ALL 8 Modules)](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research)
 - [Wednesday]: 
+    * [Download and Install Insomnia](https://insomnia.rest/download)
     * [Scrape LIVE scores - No BeautifulSoup or Selenium NEEDED! (15:43)](https://www.youtube.com/watch?v=hV5k1XbcZXA)
     * [Scraping Reddit with Python and Beautiful Soup 4](https://www.datacamp.com/tutorial/scraping-reddit-python-scrapy)
     * [How to Scrape Reddit and Automatically Label Data for NLP (13:07)](https://www.youtube.com/watch?v=8VZhog5C3bU&t=92s)
