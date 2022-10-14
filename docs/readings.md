@@ -15,9 +15,10 @@
 ## Data and Bots
 
 * [Web Scraping](scraping.md)
-* [Talking to APIs](api.md)
-* [Intro NLP](nlp_intro.md) 
-* [Advanced NLP](nlp_advanced.md) **(CURRENT WEEK: Over Oct Break)** 
+* [Scraping and APIs Overview](api.md)
+* [Scraping in Depth](nlp_intro.md) 
+* [APIs/Web in Depth](nlp_advanced.md) **(CURRENT WEEK: Over Oct Break)** 
+* [Images and Text](images.md)
 
 ## Mini-Project #2: Social Networks
 
