@@ -17,8 +17,8 @@
 * [Web Scraping](scraping.md)
 * [Scraping and APIs Overview](api.md)
 * [Scraping in Depth](nlp_intro.md) 
-* [APIs/Web in Depth](nlp_advanced.md) **(CURRENT WEEK: Over Oct Break)** 
-* [Images and Text](images.md)
+* [APIs/Web in Depth](nlp_advanced.md) 
+* [Images and Text](images.md) **(CURRENT WEEK: Over Oct Break)**
 
 ## Mini-Project #2: Social Networks
 
