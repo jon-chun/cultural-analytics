@@ -15,7 +15,7 @@ This week we'll begin to scrape, clean and analyze both natural text and images.
 
 - [Monday]: 
     * [Social Media Scraping w/Python Repo](https://github.com/jon-chun/scrape-social-medias)
-    * [Datacamp: Image Processing in Python](https://campus.datacamp.com/courses/image-processing-in-python/advanced-operations-detecting-faces-and-features?ex=11)
+    * [Datacamp: Image Processing in Python](https://campus.datacamp.com/courses/image-processing-in-python/introducing-image-processing-and-scikit-image?ex=1)
 
 - [Wednesday]:
     * [Datacamp: Introduction to NLP](https://app.datacamp.com/learn/courses/introduction-to-natural-language-processing-in-python)
