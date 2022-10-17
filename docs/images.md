@@ -18,6 +18,7 @@ This week we'll begin to scrape, clean and analyze both natural text and images.
     * [Datacamp: Image Processing in Python](https://campus.datacamp.com/courses/image-processing-in-python/introducing-image-processing-and-scikit-image?ex=1)
 
 - [Wednesday]:
+    * [Gallery-dl](https://github.com/mikf/gallery-dl)
     * [Datacamp: Introduction to NLP](https://app.datacamp.com/learn/courses/introduction-to-natural-language-processing-in-python)
 
 - [Friday]: 
