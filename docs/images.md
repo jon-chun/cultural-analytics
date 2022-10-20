@@ -19,7 +19,17 @@ This week we'll begin to scrape, clean and analyze both natural text and images.
 
 - [Wednesday]:
     * [Gallery-dl](https://github.com/mikf/gallery-dl)
+    * [Gallery-dl Video](https://www.youtube.com/watch?v=NcoHC_colJI) [Directions](https://drive.google.com/file/d/1NZZAUH836IbDEl-o9fSH9GmomWvRuNl1/view)
     * [Datacamp: Introduction to NLP](https://app.datacamp.com/learn/courses/introduction-to-natural-language-processing-in-python)
 
 - [Friday]: 
-    * Coming...
+    * [How to Scrape Reddit with Python (2018)](https://www.storybench.org/how-to-scrape-reddit-with-python/)
+    * [13 Ways To Scrape Any Public Data From Any Website](https://dev.to/serpapi/13-ways-to-scrape-any-public-data-from-any-website-1bn9)
+    * (Peruse) [Surfing the Data Pipeline with Python](https://jkropko.github.io/surfing-the-data-pipeline/ch7.html)
+
+## Resources
+* [reddit.com/prefs/apps](https://www.reddit.com/prefs/apps)
+* [PRAW API](https://praw.readthedocs.io/en/stable/getting_started/authentication.html)
+* [skimage API](https://scikit-image.org/docs/stable/auto_examples/applications/plot_thresholding.html)
+* [scraperr.py](https://github.com/NotYourGuy/scraperr)
+* [Python Lib: user_agent](https://github.com/lorien/user_agent)

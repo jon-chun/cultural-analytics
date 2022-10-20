@@ -10,9 +10,11 @@
 Email: elkinsk@kenyon.edu  
 [Google Scholar](https://scholar.google.com/citations?user=bUSgS6IAAAAJ&hl=en&oi=ao)  
 
-Katherine Elkins is founder of Kenyon’s Comparative World Literature Program and the NEH Distinguished Teaching Professor of Humanities. She has won awards for both research and teaching, most recently Kenyon’s Senior Faculty Trustee Teaching Award. Currently, she is developing a Digital Humanities program unique to Kenyon.
+Katherine Elkins has written over a dozen articles on memory, consciousness, and embodied aesthetic experience in a wide range of writers from Plato and Sappho to Wordsworth and Woolf. In Proust’s “In Search of Lost Time: Philosophical Perspectives (OUP, 2022), she reframed Proust’s exploration of consciousness in light of integrated information theory. In The Shapes of Stories (Cambridge UP, 2022), she used the AI software SentimentArcs to develop the first robust methodology for exploring the emotional arcs of stories. Her audible.com lectures on “The Giants of French Literature” and “The Modern Novel” have won her an international audience.
 
-Her many lectures on French literature and the modern novel are available on audible.com, and her research has been published in journals like Comparative Literature Studies, Modern Language Quarterly, Modernism/Modernity, Discourse and The French Review. She has also presented research at conferences both nationally and internationally, and is editor and contributor of the Oxford Studies in Literature and Philosophy: Proust (forthcoming). She and Jon Chun are presently developing new computational approaches to literary analysis.
+With a grant from the NEH, she and AI researcher Jon Chun created immensely popular computational courses for humanists, social scientists, and artists in the world’s first human-centered AI curriculum. These courses bring a more diverse set of voices to today’s big questions by building a foundation in the conceptual, ethical, and technical aspects of AI from a multi-disciplinary perspective.
+
+She is also Co-Founder and Co-Director of the KDH lab focused on the latest advances in natural language processing and generation. Over the past six years, she and Chun have been involved in hundreds of innovative projects applying AI to literature, art, political science, economics, and more. Part of their research has included training GPT language models to write in the style of a variety of authors and styles. In honor of Čapek’s 100th anniversary of “Robots,” they debuted AI Divabot in collaboration with Director and Artist-in-Residence at the Wexner Center, Jim Dennen.
 
 **AREAS OF EXPERTISE**
 
@@ -40,7 +42,7 @@ Jon Chun has degrees in electrical engineering, computer science and biomedical 
 
 Professor Chun has co-founded several startups including as CEO and COO of the world’s largest anonymity service backed by large Wall Street hedge funds and the CIA’s venture fund In-Q-Tel. His specialization in cross-cultural experiences of technology stems from working and studying throughout the US, Europe, Asia and Latin America including the US Foreign Service Spanish Exam and the 日本語能力試験 (Japanese). Before arriving in Gambier he was a Director of Development for the world’s largest computer security corporation based in Silicon Valley and Entrepreneur in Residence at UC Berkeley.
 
-Jon is interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. In 2017 he co-created the world's first AI curriculum in Computational Digital Humanities to bridge the gap between technology and the humanity. He publishes on AI and has mentored hundreds of interdisciplinary projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and other subjects.
+Jon is interested in bringing diverse voices to urgent debates surrounding technology’s growing impact on society. In 2017 he co-created the world's first AI curriculum in Computational Digital Humanities to bridge the gap between technology and humanity. He publishes on AI and has mentored hundreds of interdisciplinary projects that synthesize Artificial Intelligence with literature, history, political science, art, dance, music, law, medicine, economics and other subjects.
 
 **AREAS OF EXPERTISE**
 
