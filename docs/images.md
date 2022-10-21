@@ -36,6 +36,7 @@ This week we'll begin to scrape, clean and analyze both natural text and images.
 * [scraperr Library](https://github.com/NotYourGuy/scraperr): Scrape Reddit Images/Galleries
 * [RedDownloader](https://github.com/JackhammerYT/RedDownloader): Scrape Reddit Images w/o API
 * [snscrape Library](https://github.com/JustAnotherArchivist/snscrape): (Multiple) Social Network Scraper
+* [scweet Library](https://github.com/Altimis/Scweet): A new API-free twitter scraper (+images)
 * [Python Lib: user_agent](https://github.com/lorien/user_agent)
 * [MS BI Dashboard: Scrape Twitter for Sentiment Analysis](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-scrape-twitter-data-for-sentiment-analysis-with-python/ba-p/3593365): Twitter scraping + NLP/sentiment Analysis + Visualization
 * [Playwright](https://playwright.dev/python/): Web crawler automation engine (alternative to Selenium)
