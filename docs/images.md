@@ -26,10 +26,14 @@ This week we'll begin to scrape, clean and analyze both natural text and images.
     * [How to Scrape Reddit with Python (2018)](https://www.storybench.org/how-to-scrape-reddit-with-python/)
     * [13 Ways To Scrape Any Public Data From Any Website](https://dev.to/serpapi/13-ways-to-scrape-any-public-data-from-any-website-1bn9)
     * (Peruse) [Surfing the Data Pipeline with Python](https://jkropko.github.io/surfing-the-data-pipeline/ch7.html)
+    * [FreeCodeCamp: Python Scraping Tutorial - tweepy & snscrape](https://www.freecodecamp.org/news/python-web-scraping-tutorial/)
+    * [Extract Text from Any Image with Python 3.10 Tutorial (Fast & Easy) (10:52)](https://www.youtube.com/watch?v=YK9a8E45X_Y)
+    * [Extract Text from Image](https://www.geeksforgeeks.org/how-to-extract-text-from-images-with-python/)
 
 ## Resources
 * [reddit.com/prefs/apps](https://www.reddit.com/prefs/apps)
 * [PRAW API](https://praw.readthedocs.io/en/stable/getting_started/authentication.html)
 * [skimage API](https://scikit-image.org/docs/stable/auto_examples/applications/plot_thresholding.html)
-* [scraperr.py](https://github.com/NotYourGuy/scraperr)
+* [scraperr Library](https://github.com/NotYourGuy/scraperr)
+* [snscrape Library](https://github.com/JustAnotherArchivist/snscrape)
 * [Python Lib: user_agent](https://github.com/lorien/user_agent)
