@@ -3,64 +3,49 @@
 
 # **UPDATE**
 
-![Map Image](images/img_iphs290_map_delfi-de-la-rua-vfzfavUZmfc-unsplash.jpg)
+[![AI Generated Images from Lyrics to 'Don't Stop Me Now' by Queen](images/cover_dont_stop_me_now_queen.jpg)](https://www.youtube.com/watch?v=l6Myv8yF9zw&list=RDnyD6g47DHQk&index=4)Click to open window and see AI generated video based upon lyrics to "Don't Stop Me Now" by Queen
 
 ## Overview
 
-Outside class this well we'll read the chapters of an upcoming book on Geospatial Data Analysis using Pyhon. Although some code is presented in later chapters, this is more an overview of geospatial analysis from a professional more focused on the real-world concerns of health policy than those of a typical programmer.
+This week we bring together all the many disparate and not-so-disparate skills honed over the past several weeks into Mini-Project #2. Over the past few months, text to image (and now video) generation has seen a dramatic leap forward with the introduction of new large AI models. This also aligns nicely with our own AI research, so we can lend an unusual degree of experience to this rapdily evolving field.
 
-The loquacious style facilitates a quick read for high-level concepts. Look for universal patterns across various geospatial libraries, identify common workflows and bring any questions that arise during your readings to our class meetings. There is no coding outside class this week (no Datacamp).
+Creating text prompts (prompt engineering) to feed into these text2image models is one of the hottest areas of AI research recently, and we'll explore this further this week. This involves an all-hands-on-deck class project that decomposes nicely into smaller groups: text to image generation by recently released state-of-the-art large DNN models.
 
-In class this week, we'll work on code in several existing Jupyter notebooks. We'll also do several coding exercises merging, manipulating and presenting geospatial data. By the end of the week you should have both a broad theoretic background in Geospatial analysis as well as a core ability to create, manipulate and present maps using Python and popular Geospatial libraries. Woo-hoo!
+**GOAL:**
+
+Research, search and scrape Twitter for images and prompts based upon the following 3 state-of-the-art text2image deep neural network (DNN) models:
+
+1. [DALL-E 2](https://openai.com/dall-e-2/): [@openai](https://twitter.com/OpenAI)
+2. Midjourney: [@midjourney](https://twitter.com/midjourney?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+3. [Stable Diffusion](https://stablediffusionweb.com/): [@stablediffusion](https://mobile.twitter.com/stablediffusion)
+
+Our goal is to use NLP on these tweets to extract out the author/organization and text prompt long with the associated generated text2image creation. 
+
+In class will be assigne everyone into three groups, one for each of the main text2image DNN models listed above. Each group will independently research, scrape and analyze as much data as they can for their assigned DNN model. Then as a group, we will combine, compare, and critique our findings as a unified team.
 
 
 ## Readings
 
-![Python for Geospatial Data Analysis by Bonny P. McClain](images/book_cover_python_for_geospatial_data_analysis_bmcclain_202211.jpg)
 
 - [Monday]:
-    * Ch 1: [Introduction to Geospatial Analytics](https://drive.google.com/file/d/1efx44lDocuHcDim7gIpMGTyoKrwMcgNI/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
-    * Ch 2: [Essential Facilities for Spatial Analytics](https://drive.google.com/file/d/19ajpcERnjCSwvt_-M2qE5kKwgDuZwSfj/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
-    * Ch 8: [Data Cleaning](https://drive.google.com/file/d/1Qp6rF8zYGDzOP-qJm-rkqyjTtEVymp5r/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
+    * [Lexica.art](https://lexica.art/) Scroll through, search and roll-over to view text prompt that generated each image
+    * [The absolute beginners guide to MidJourney AI. Starting with AI Art](https://www.youtube.com/watch?v=PqCIUniQ_U8) (start at 20:00 and peruse for a 5-10 minutes to get a sense of how to interactively design prompt for image generation)
+    * [Design Guidelines for Prompt Engineering Text-to-Image Generative Models (7:33)](https://www.youtube.com/watch?v=7-XnIuH8r3U) Brief overview of [ACM paper](https://arxiv.org/pdf/2109.06977.pdf) on prompt engineering experiments 
+    * Research all 3 models including (start with the links at the top of this page under GOALS)
+        * Websites (official and tutorials)
+        * Reddit subthreads (r/subreddits)
+        * Twitter (official and tutorials)
+        * Twitter (artists and prgorammers)
+    * [DALL-e Prompt Book](https://dallery.gallery/the-dalle-2-prompt-book/)
+
+
 - [Wednesday]:
-    * Ch 3: [QGIS: Python for Spatial Analytics](https://drive.google.com/file/d/1xLq5mL2mDq2P74bTqkETQ6ZwRyyVxXkX/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
-    * Ch 4: [Geospatial Analytics in the Cloud: Google Earth Engine and Other Tools](https://drive.google.com/file/d/1q4zJ1EhRw6yvNl3HwUhRlfzDS6PjDanf/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
-    * Ch 5: [Open StreetMap: Accessing Geospatial Data with OSMnx](https://drive.google.com/file/d/1YwbrSaSDkFs7qkqmda8pv7_NhtjrBqVx/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
+    * Coming...
+
 - [Friday]:
-    * [Complete Kaggle Geospatial Course, Notebooks 3-5](https://www.kaggle.com/learn/geospatial-analysis)
-    * ~~Ch 6: [ArcGIS Python API](https://drive.google.com/file/d/12uxstmQ5iJO6D9NhOtAo3wHn0Wvd6kqy/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022~~
-    * (Optional) Ch 7: [GeoPandas and Spatial Statistics](https://drive.google.com/file/d/1zGp8aIny2A9jZh6mCVFkUuLU5o_FuYGJ/view?usp=sharing) from Python for Geospatial Data Analysis by Bonny P. McClain, O'Reilly Nov 2022
+    * Coming...
 
+## References
 
-## Coding Practice in Class
-
-Datacamp.com [Working with Geospatial Data in Python (4hrs)](https://app.datacamp.com/learn/courses/working-with-geospatial-data-in-python)
-
-- [Monday]: Finding and Creating Geospatial Datasets
-    * [Jupyter Notebook #1: Leaflet Key Features](https://colab.research.google.com/drive/10PwdvVQn_hr6u3ipx2MzF6-yE-BK2_CO?usp=sharing) 
-    * [Jupyter Notebook #1: OSMnx](https://colab.research.google.com/drive/13AGkOw7jWMYkF82ZY27ZyR_HYWXMbzYM?usp=sharing)
-- [Wednesday]: Basics of Geospatial Analysis
-    * [Kaggle Course](https://www.kaggle.com/learn/geospatial-analysis)
-    * [Kaggle Course Questions](kaggle_geospatial_course_questions.md)
-    * [Kaggle Geopandas Notebooks](https://www.kaggle.com/search?q=geopandas+in%3Anotebooks+notebookLanguage%3APython)
-- [Friday]: Presenting to the World
-    * Create your own Geospatial visualization in a Jupyter Notebook from scratch
-
-
-## Mapping Resources
-
-- [A Beginner's Guide to Geospatial Data Analysis](https://www.analyticsvidhya.com/blog/2022/06/an-beginners-guide-to-geospatial-data-analysis/)
-    * A concise summary of the 7 most important functions in GeoPandas
-- [Taxonomy of Geospatial Analytics Resources for Mapping](https://github.com/jon-chun/resources-geospatial-analysis)
-
-## Mini-Project Brainstorming
-
-- [Brainstorming](images/whiteboard_cultural_analytics_2022fall_miniproject_map_ideas.jpg)
-- [Team Assignments](images/whiteboard_cultural_analytics_2022fall_miniproject_map_teams.jpg)
-
-
-
-
-
-    * [Extract Text from Any Image with Python 3.10 Tutorial (Fast & Easy) (10:52)](https://www.youtube.com/watch?v=YK9a8E45X_Y)
-    * [Extract Text from Image](https://www.geeksforgeeks.org/how-to-extract-text-from-images-with-python/)
+* [Promptbase: A marketplace for text engineering](https://promptbase.com/)
+* [Awesome Prompt Papers](https://github.com/thunlp/PromptPapers)
