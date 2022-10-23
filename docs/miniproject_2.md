@@ -3,7 +3,7 @@
 
 # **UPDATE**
 
-[![AI Generated Images from Lyrics to 'Don't Stop Me Now' by Queen](images/cover_dont_stop_me_now_queen.jpg)](https://www.youtube.com/watch?v=l6Myv8yF9zw&list=RDnyD6g47DHQk&index=4)Click to open window and see AI generated video based upon lyrics to "Don't Stop Me Now" by Queen
+[![AI Generated Images from Lyrics to 'Don't Stop Me Now' by Queen](images/cover_dont_stop_me_now_queen.jpg)](https://www.youtube.com/watch?v=l6Myv8yF9zw&list=RDnyD6g47DHQk&index=4)Click on image above to watch Midjourney AI-generated video using lyrics to "Don't Stop Me Now" by Queen
 
 ## Overview
 
