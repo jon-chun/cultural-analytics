@@ -22,7 +22,7 @@
 
 ## Mini-Project #2: Social Networks
 * **Due**: before class Monday, October 31, 2022
-* (week 9) [Mini-Project #2 Team Project Scraping Text-to-Image Prompts and Images from Twitter]((weeks 2 & 3) [Mini-Project #1 Geospatial Analysis](miniproject_1.md)) **(CURRENT WEEK)**
+* (week 9) [Scrape Twitter for AI generated Images and associated Text Prompts]((weeks 2 & 3) [Mini-Project #1 Geospatial Analysis](miniproject_1.md)) **(CURRENT WEEK)**
 
 * Mini-Project #2 Resources
 ## Natural Language Processing (NLP)
