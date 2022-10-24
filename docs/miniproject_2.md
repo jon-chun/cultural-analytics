@@ -33,22 +33,57 @@ Everyone will be assigned into one of three groups representing each of the main
 
 
 - [Monday]:
-    * [Lexica.art](https://lexica.art/) Scroll through, search and roll-over to view text prompt that generated each image
     * [The absolute beginners guide to MidJourney AI. Starting with AI Art](https://www.youtube.com/watch?v=PqCIUniQ_U8) (start at 20:00 and peruse for a 5-10 minutes to get a sense of how to interactively design prompt for image generation)
     * Research all 3 models including (start with the links at the top of this page under GOALS)
         * Websites (official and tutorials)
         * Reddit subthreads (r/subreddits)
         * Twitter (official and tutorials)
         * Twitter (artists and programmers)
+    * [The Mind-Blowing DALL·E 2 Prompt Book](https://www.youtube.com/watch?v=1Qyo-rXUs38) Expand and read the description immediately below the YouTube video for links to various text2image social media users and groups.
     * [DALL-e Prompt Book](https://dallery.gallery/the-dalle-2-prompt-book/)
     * Review Twitter API (version 2) from previous weeks
 
 - [Wednesday]:
     * [Design Guidelines for Prompt Engineering Text-to-Image Generative Models (7:33)](https://www.youtube.com/watch?v=7-XnIuH8r3U) Brief overview of [ACM paper](https://arxiv.org/pdf/2109.06977.pdf) on prompt engineering experiments 
-    * More coming...
+    * (Gallery) [Lexica.art](https://lexica.art/) Scroll through, search and roll-over to view text prompt that generated each image
+    * (Gallery) [PromptHero.com](https://prompthero.com/)
+    * (Gallery) [NightCafe.Studio](https://creator.nightcafe.studio/explore)
 
 - [Friday]:
     * Coming...
+
+<br></br>
+
+## Assignments:
+---
+
+**Teams:**
+
+| Social Media | DALL-E 2 | Midjourney | Stable Diffusion |
+| ------ | ----- | ----- | ----- |
+| Twitter | Freddie | Jill | Jeremy |
+|         | Ani     | Claire | Vikas |
+| Reddit | Viet | Max | Devon |
+|        | Teddy | Anav | Abbie |
+|        | Tao | | |
+
+
+**Identify Scrape Targets:**
+* Official Social Media Accounts (e.g. @handles)
+* Groups/Boards of Fans (e.g. subreddits)
+* Search Terms (e.g. regular or #hashtags)
+* Individual Artists
+* Gallaries (e.g. Lexica.art)
+* Other sources (e.g. Slack, Discord)
+
+**Guidance:**
+* Keep good notes as you go
+* Give FULL DETAILS we need to scrape BOTH (a) Generated Images and (b) text prompts (+ possible explainations/given context)
+  - Full URL paths/subdirectories
+  - Unique usernames/handles/hashtags
+  - Distinct and effective keywords/search terms
+  - etc
+* Try to group common patterns into a taxonomy as you to, make notes on what distinctive features you are using to base your classification on
 
 ## References
 
