@@ -89,3 +89,36 @@ Everyone will be assigned into one of three groups representing each of the main
 
 * [Promptbase: A marketplace for text engineering](https://promptbase.com/)
 * [Awesome Prompt Papers](https://github.com/thunlp/PromptPapers)
+* [Python os.environ() vs python-dotenv](https://www.nylas.com/blog/making-use-of-environment-variables-in-python/)
+
+## Twitter API Ver 2
+* [Twitter Developer Platform Resources](https://github.com/twitterdev)
+* [An Extenstive Guide to Collecting Tweets from Twitter API v2 for Academic Research Using Python 3 (Academic 10M/mo access level)](https://towardsdatascience.com/an-extensive-guide-to-collecting-tweets-from-twitter-api-v2-for-academic-research-using-python-3-518fcb71df2a)
+* [Twitter API Ver 2: Reference](https://developer.twitter.com/en/docs/api-reference-index)
+* [Twitter API Ver 2: Playground](https://oauth-playground.glitch.me/?id=listIdGet&params=%28%27id%21%271409935014725177344%27%29_)
+* [Twitter API Ver 2: Query Builder](https://developer.twitter.com/apitools/query?query=)
+* [Twitter API Ver 2 Annotations: Entities.Context](https://developer.twitter.com/en/docs/twitter-api/annotations/overview)
+* [Twitter API Ver 2: Examples](https://developer.twitter.com/en/docs/tutorials)
+* [Twitter API Ver 2: Sample Code](https://github.com/twitterdev/Twitter-API-v2-sample-code)
+* [Twitter API Ver 2: Notification via Integration with AWS/Twilio (Java)](https://developer.twitter.com/en/blog/industry-team-news/2020/get-customized-tweet-notifications-where-you-want-them)
+
+## Discord
+* [Awesome Discord Communities](https://github.com/mhxion/awesome-discord-communities)
+* [Discord Official API](https://github.com/discord/discord-api-docs)
+* [Discord API Python Wrapper](https://github.com/Rapptz/discord.py)
+* [Discord RedBot](https://github.com/Cog-Creators/Red-DiscordBot)
+* [PyDiscord Bot](https://docs.pycord.dev/en/master/index.html)
+* [DiscordChatExporter (Win GUI/CLI)](https://github.com/Tyrrrz/DiscordChatExporter)
+
+## Slack
+* [Awesome Slack (3/22)](https://github.com/matiassingers/awesome-slack)
+* [Slack Web Scraper](https://github.com/iulspop/slack-web-scraper)
+* [Github + Slack Integration](https://github.com/integrations/slack)
+* [Official Slack API](https://api.slack.com/)
+
+## Other Scrapers & Bots
+* [Awesome Bots (8/21)](https://github.com/DopplerHQ/awesome-bots)
+* [Rasa Multichat Bot ML Automation](https://github.com/RasaHQ/rasa)
+* [Mattermost Multichat Bridge](https://github.com/42wim/matterbridge)
+* [disease-sh API and c19 scraper (JS)](https://github.com/disease-sh/API)
+
