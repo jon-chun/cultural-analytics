@@ -96,6 +96,7 @@ Everyone will be assigned into one of three groups representing each of the main
 * [Promptbase: A marketplace for text engineering](https://promptbase.com/)
 * [Awesome Prompt Papers](https://github.com/thunlp/PromptPapers)
 * [Python os.environ() vs python-dotenv](https://www.nylas.com/blog/making-use-of-environment-variables-in-python/)
+* [Twitter Hashtag Search Engine](https://hashtagify.me/hashtag/nowar)
 
 ## Twitter API Ver 2
 * [Twitter Developer Platform Resources](https://github.com/twitterdev)
