@@ -22,7 +22,8 @@
 
 ## Mini-Project #2: Social Networks
 * **Due**: before class Monday, October 31, 2022
-* (week 9) [Mini-Project #2: Scrape Twitter for AI generated Images and associated Text Prompts](miniproject_2.md) **(CURRENT WEEK)**
+* [Mini-Project #2: Scrape Twitter for AI generated Images and associated Text Prompts](miniproject_2.md) 
+* (week 10) [Scrape Twitter to Social Network](networks.md) **(CURRENT WEEK)**
 
 * Mini-Project #2 Resources
 ## Natural Language Processing (NLP)
