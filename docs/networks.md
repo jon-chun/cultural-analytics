@@ -5,7 +5,9 @@
 
 ## Overview
 
-This week you'll learn the basics of network analysis and the popular Python library NetworkX. We'll use graphs to model character interactions in Game of Thrones as well as understand the social networks of US politicians on Twitter. By the end of the week, we'll customize this to explore your own ideas in a project that will incorporate Twitter API, NLP and network analysis.
+This week you'll learn the basics of network analysis and the popular Python library NetworkX. We'll use graphs to model character interactions in Game of Thrones as well as understand the social networks of US politicians on Twitter. 
+
+This week we customize this the social networs of US politicians Jupyter notebook for your own goals in a project that will incorporate Twitter API, NLP and network analysis. On Friday, we'll review code to see other common social network analysis. We'll also peek beyond simple static network analysis to see two more sophisticated statistical ML and mathematical models based upon network data. 
 
 ## Applications
 
@@ -16,7 +18,10 @@ This week you'll learn the basics of network analysis and the popular Python lib
     * [Analyzing Social Media Data in Python (Chapters 1-2)](https://app.datacamp.com/learn/courses/analyzing-social-media-data-in-python)
     * [US Politician Twitter Network Analysis - Kaggle](https://www.kaggle.com/code/noname666666/us-poticians-twitter-network-anlysis)
 - [Friday]:
-    * Coming...
+    * [Github Social Network Analysis](https://www.kaggle.com/code/fareedkhan557/github-social-network-analysis-using-networkx)
+    * [Chilean Artists NetworkX](https://www.kaggle.com/code/sandorabad/chilean-artist-networkx)
+    * [Predict Customers Next Purchase Day w/XGBoost RFM](https://www.kaggle.com/code/jchun2000/predict-customers-next-purchase-day-xgboost-w-rfm/edit)
+    * [Can A Graph Help Classify Player Data](https://www.kaggle.com/code/jchun2000/can-a-graph-help-classify-player-data/edit)
 
 
 ## Resources
