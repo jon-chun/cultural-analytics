@@ -54,7 +54,8 @@ Everyone will be assigned into one of three groups representing each of the main
     * [Freecodecamp.com: Web Scraping with Python, Tweepy and Snscrape](https://www.freecodecamp.org/news/python-web-scraping-tutorial/)
     * [Github Action to Scrape #depression Tweets Daily](https://github.com/ahmedshahriar/depression-tweets-scraper)
     * [How to Scrape Twitter with Snscrape](https://betterprogramming.pub/how-to-scrape-tweets-with-snscrape-90124ed006af) with     [Repo](https://github.com/MartinBeckUT/TwitterScraper/tree/master/snscrape)
-    * [scrape_twitter_freecc.py](https://github.com/jon-chun/scrape-social-medias/blob/main/scrape_freecodecamp.py) Simple Twitter Scraper
+    * [scrape_twitter_7day.py](https://github.com/jon-chun/scrape-social-medias/blob/main/scrape_twitter_7day.py) - For Normal dev accounts that can only scrape over the last 7 days (update the start/end date vars to correspond to a current trailing 7day window)
+    * [scrape_twitter_freecc.py](https://github.com/jon-chun/scrape-social-medias/blob/main/scrape_freecodecamp.py) For academic research dev accounts that can scrape beyond 7 days.
     * [scrape_reddit_sentiment.py](https://github.com/jon-chun/scrape-social-medias/blob/main/scrape_reddit_sentiment.py) Simple Reddit Scraper
 
 <br></br>
