@@ -7,7 +7,7 @@
 
 This week you'll learn the basics of network analysis and the popular Python library NetworkX. We'll use graphs to model character interactions in Game of Thrones as well as understand the social networks of US politicians on Twitter. 
 
-This week we customize this the social networs of US politicians Jupyter notebook for your own goals in a project that will incorporate Twitter API, NLP and network analysis. On Friday, we'll review code to see other common social network analysis. We'll also peek beyond simple static network analysis to see two more sophisticated statistical ML and mathematical models based upon network data. 
+We'll customize the social networks of US politicians Jupyter notebook for your own goals in a project that will integrate your Twitter API, NLP and network analysis skills. On Friday, we'll review code to see two other common social network analysis. We'll also peek beyond simple static network analysis to see two more sophisticated statistical ML and mathematical models based upon network data. 
 
 ## Applications
 
