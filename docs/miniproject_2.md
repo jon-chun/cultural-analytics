@@ -92,6 +92,7 @@ Everyone will be assigned into one of three groups representing each of the main
 
 ## References
 
+* [Git - The Simple Guide](https://rogerdudler.github.io/git-guide/)
 * [Promptbase: A marketplace for text engineering](https://promptbase.com/)
 * [Awesome Prompt Papers](https://github.com/thunlp/PromptPapers)
 * [Python os.environ() vs python-dotenv](https://www.nylas.com/blog/making-use-of-environment-variables-in-python/)
