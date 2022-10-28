@@ -50,7 +50,12 @@ Everyone will be assigned into one of three groups representing each of the main
     * (Gallery) [NightCafe.Studio](https://creator.nightcafe.studio/explore)
 
 - [Friday]:
-    * Coming...
+    * [Lexica.art: API Instructions](https://lexica.art/docs)
+    * [Freecodecamp.com: Web Scraping with Python, Tweepy and Snscrape](https://www.freecodecamp.org/news/python-web-scraping-tutorial/)
+    * [Github Action to Scrape #depression Tweets Daily](https://github.com/ahmedshahriar/depression-tweets-scraper)
+    * [How to Scrape Twitter with Snscrape](https://betterprogramming.pub/how-to-scrape-tweets-with-snscrape-90124ed006af) with     [Repo](https://github.com/MartinBeckUT/TwitterScraper/tree/master/snscrape)
+    * [scrape_twitter_freecc.py](https://github.com/jon-chun/scrape-social-medias/blob/main/scrape_freecodecamp.py) Simple Twitter Scraper
+    * [scrape_reddit_sentiment.py](https://github.com/jon-chun/scrape-social-medias/blob/main/scrape_reddit_sentiment.py) Simple Reddit Scraper
 
 <br></br>
 
@@ -98,6 +103,7 @@ Everyone will be assigned into one of three groups representing each of the main
 * [Twitter API Ver 2: Playground](https://oauth-playground.glitch.me/?id=listIdGet&params=%28%27id%21%271409935014725177344%27%29_)
 * [Twitter API Ver 2: Query Builder](https://developer.twitter.com/apitools/query?query=)
 * [Twitter API Ver 2 Annotations: Entities.Context](https://developer.twitter.com/en/docs/twitter-api/annotations/overview)
+* [Twitter API Ver 2 Data Dictionary](https://developer.twitter.com/en/docs/twitter-api/data-dictionary/object-model/media)
 * [Twitter API Ver 2: Examples](https://developer.twitter.com/en/docs/tutorials)
 * [Twitter API Ver 2: Sample Code](https://github.com/twitterdev/Twitter-API-v2-sample-code)
 * [Twitter API Ver 2: Notification via Integration with AWS/Twilio (Java)](https://developer.twitter.com/en/blog/industry-team-news/2020/get-customized-tweet-notifications-where-you-want-them)
@@ -122,3 +128,9 @@ Everyone will be assigned into one of three groups representing each of the main
 * [Mattermost Multichat Bridge](https://github.com/42wim/matterbridge)
 * [disease-sh API and c19 scraper (JS)](https://github.com/disease-sh/API)
 
+## Code Samples
+* [Repl.it](https://replit.com/search?query=twitter)
+* [Glitch.com](https://glitch.com/@twitter)
+* [Hitomi Scripts](https://github.com/KurtBestor/Hitomi-Downloader/tree/master/src/extractor)
+* [Twitter API ver 2 Sample Code](https://github.com/twitterdev/Twitter-API-v2-sample-code)
+* [Elon Musk Tweet Auto Scraper](https://www.kaggle.com/code/zjjc123/elon-musk-twitter-daily-auto-scraper)
