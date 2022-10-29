@@ -93,15 +93,19 @@ Everyone will be assigned into one of three groups representing each of the main
 
 ## References
 
+* [unicodedata library](https://docs.python.org/3/library/unicodedata.html)
+  - tweets_df['Tweet'] = tweets_df['Tweet'].apply(lambda x: unicodedata.normalize('NFD', x).encode('ascii', 'ignore'))
 * [Git - The Simple Guide](https://rogerdudler.github.io/git-guide/)
 * [Promptbase: A marketplace for text engineering](https://promptbase.com/)
 * [Awesome Prompt Papers](https://github.com/thunlp/PromptPapers)
 * [Python os.environ() vs python-dotenv](https://www.nylas.com/blog/making-use-of-environment-variables-in-python/)
-* [Twitter Hashtag Search Engine](https://hashtagify.me/hashtag/nowar)
+* [Twitter Hashtag Search: keywordtool](https://keywordtool.io/twitter)
+* [Twitter Hashtag Search: tagsfinder](https://www.tagsfinder.com/en-us/)
 
 ## Twitter API Ver 2
 * [Twitter Developer Platform Resources](https://github.com/twitterdev)
 * [An Extenstive Guide to Collecting Tweets from Twitter API v2 for Academic Research Using Python 3 (Academic 10M/mo access level)](https://towardsdatascience.com/an-extensive-guide-to-collecting-tweets-from-twitter-api-v2-for-academic-research-using-python-3-518fcb71df2a)
+* [A Comprehensive Guide for Using the Twitter API v2 Using Tweepy](https://dev.to/twitterdev/a-comprehensive-guide-for-using-the-twitter-api-v2-using-tweepy-in-python-15d9)
 * [Twitter API Ver 2: Reference](https://developer.twitter.com/en/docs/api-reference-index)
 * [Twitter API Ver 2: Playground](https://oauth-playground.glitch.me/?id=listIdGet&params=%28%27id%21%271409935014725177344%27%29_)
 * [Twitter API Ver 2: Query Builder](https://developer.twitter.com/apitools/query?query=)
@@ -110,7 +114,7 @@ Everyone will be assigned into one of three groups representing each of the main
 * [Twitter API Ver 2: Examples](https://developer.twitter.com/en/docs/tutorials)
 * [Twitter API Ver 2: Sample Code](https://github.com/twitterdev/Twitter-API-v2-sample-code)
 * [Twitter API Ver 2: Notification via Integration with AWS/Twilio (Java)](https://developer.twitter.com/en/blog/industry-team-news/2020/get-customized-tweet-notifications-where-you-want-them)
-
+* [Sentiment Analysis of Live Tweets (12:00) 3/3](https://www.youtube.com/watch?v=YdRTs0LmiuU&t=0s)
 ## Discord
 * [Awesome Discord Communities](https://github.com/mhxion/awesome-discord-communities)
 * [Discord Official API](https://github.com/discord/discord-api-docs)
@@ -130,6 +134,7 @@ Everyone will be assigned into one of three groups representing each of the main
 * [Rasa Multichat Bot ML Automation](https://github.com/RasaHQ/rasa)
 * [Mattermost Multichat Bridge](https://github.com/42wim/matterbridge)
 * [disease-sh API and c19 scraper (JS)](https://github.com/disease-sh/API)
+* [Wayback Machine Scraper (CL)](https://github.com/sangaline/wayback-machine-scraper)
 
 ## Code Samples
 * [Repl.it](https://replit.com/search?query=twitter)
@@ -137,3 +142,8 @@ Everyone will be assigned into one of three groups representing each of the main
 * [Hitomi Scripts](https://github.com/KurtBestor/Hitomi-Downloader/tree/master/src/extractor)
 * [Twitter API ver 2 Sample Code](https://github.com/twitterdev/Twitter-API-v2-sample-code)
 * [Elon Musk Tweet Auto Scraper](https://www.kaggle.com/code/zjjc123/elon-musk-twitter-daily-auto-scraper)
+
+## Books
+* [Mastering API Architecture](https://learning.oreilly.com/library/view/mastering-api-architecture/9781492090625/)
+* [Docker Deep Dive](https://learning.oreilly.com/library/view/docker-deep-dive/9781800565135/)
+* [ML Engineering AWS](https://learning.oreilly.com/library/view/machine-learning-engineering/9781803247595/)

@@ -26,6 +26,8 @@ We'll customize the social networks of US politicians Jupyter notebook for your 
 
 ## Resources
 
+* [Twitter Developer Dashboard](https://developer.twitter.com/en/portal/dashboard)
+* [Reddit Authorized Apps](https://www.reddit.com/prefs/apps)
 * [Introduction to Social Network Analysis 1/5: Main Concepts (15:45)](https://www.youtube.com/watch?v=lnLW6ITFY3M)
 * [Introduction to Social Network Analysis [2/5]: The Origins (11:02)](https://www.youtube.com/watch?v=hlAwvj60MI4)
 * [Network of Thrones](https://www.maa.org/sites/default/files/pdf/Mathhorizons/NetworkofThrones%20%281%29.pdf)
