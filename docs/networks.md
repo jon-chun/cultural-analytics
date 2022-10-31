@@ -16,11 +16,12 @@ We'll customize the social networks of US politicians Jupyter notebook for your 
     * [Network Game of Thones DH](https://melaniewalsh.github.io/Intro-Cultural-Analytics/06-Network-Analysis/01-Network-Analysis.html)
     * [Twitter Graph Starter](https://www.kaggle.com/code/docxian/twitter-graphs-starter)
     * [Game of Thrones: Network Analysis](https://www.kaggle.com/code/mmmarchetti/game-of-thrones-network-analysis)
-    * [US Politicians Twitter Network Analysis](https://www.kaggle.com/code/noname666666/us-poticians-twitter-network-anlysis)
-    * [WARNING: Offensive Language: Cyberbulling Twitter](https://www.kaggle.com/code/jchun2000/cyberbullying-tweet-networks-and-analysis-plots/edit)
+
 - [Wednesday]:
     * [Analyzing Social Media Data in Python (Chapters 1-2)](https://app.datacamp.com/learn/courses/analyzing-social-media-data-in-python)
-    * [US Politician Twitter Network Analysis - Kaggle](https://www.kaggle.com/code/noname666666/us-poticians-twitter-network-anlysis)
+    * [US Politicians Twitter Network Analysis](https://www.kaggle.com/code/noname666666/us-poticians-twitter-network-anlysis)
+    * [WARNING: Offensive Language: Cyberbulling Twitter](https://www.kaggle.com/code/jchun2000/cyberbullying-tweet-networks-and-analysis-plots/edit)
+    
 - [Friday]:
     * [Github Social Network Analysis](https://www.kaggle.com/code/fareedkhan557/github-social-network-analysis-using-networkx)
     * [Chilean Artists NetworkX](https://www.kaggle.com/code/sandorabad/chilean-artist-networkx)
