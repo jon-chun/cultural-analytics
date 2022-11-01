@@ -19,6 +19,7 @@ We'll customize the social networks of US politicians Jupyter notebook for your 
 
 - [Wednesday]:
     * [Analyzing Social Media Data in Python (Chapters 1-2)](https://app.datacamp.com/learn/courses/analyzing-social-media-data-in-python)
+    * [Postman.com](https://www.postman.com/) Sign-up
     * [US Politicians Twitter Network Analysis](https://www.kaggle.com/code/noname666666/us-poticians-twitter-network-anlysis)
     * [WARNING: Offensive Language: Cyberbulling Twitter](https://www.kaggle.com/code/jchun2000/cyberbullying-tweet-networks-and-analysis-plots/edit)
     
