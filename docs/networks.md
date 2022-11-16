@@ -18,6 +18,7 @@ We'll customize the social networks of US politicians Jupyter notebook for your 
     * [Game of Thrones: Network Analysis](https://www.kaggle.com/code/mmmarchetti/game-of-thrones-network-analysis)
 
 - [Wednesday]:
+    * [scrape_twitter_usgovs_simple](https://drive.google.com/file/d/1FxOtvnwIhXtQF6L29fdbufxZTtUa6c61/view?usp=sharing) - for scraping Followers/Followed per US state governor and combining them with 'source' and 'destination' renamed columns
     * [Analyzing Social Media Data in Python (Chapters 1-2)](https://app.datacamp.com/learn/courses/analyzing-social-media-data-in-python)
     * [Postman.com](https://www.postman.com/) Sign-up
     * [US Politicians Twitter Network Analysis](https://www.kaggle.com/code/noname666666/us-poticians-twitter-network-anlysis)
@@ -33,6 +34,8 @@ We'll customize the social networks of US politicians Jupyter notebook for your 
 ## Resources
 
 * [Twitter Developer Dashboard](https://developer.twitter.com/en/portal/dashboard)
+* [Twitter API v2 Sample Code](https://github.com/twitterdev/Twitter-API-v2-sample-code)
+* [Getting Started with the Twitter API v2 for Academic Research](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research)
 * [Reddit Authorized Apps](https://www.reddit.com/prefs/apps)
 * [Introduction to Social Network Analysis 1/5: Main Concepts (15:45)](https://www.youtube.com/watch?v=lnLW6ITFY3M)
 * [Introduction to Social Network Analysis [2/5]: The Origins (11:02)](https://www.youtube.com/watch?v=hlAwvj60MI4)
