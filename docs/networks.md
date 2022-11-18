@@ -62,6 +62,13 @@ We'll customize the social networks of US politicians Jupyter notebook for your 
 * [NetworkX Geospatial Examples](https://networkx.org/documentation/stable/auto_examples/geospatial/plot_polygons.html#sphx-glr-auto-examples-geospatial-plot-polygons-py)
 * [Chinese Postman Problem (TSP Variant)](https://www.datacamp.com/tutorial/networkx-python-graph-tutorial)
 
+## Thanksgiving Break
+
+* [US Govs Notebook](https://drive.google.com/file/d/1h_RIOtL8p_VsvtR6wThTe-ppprhOJyEl/view?usp=sharing)
+* [Introduction to Network Analysis in Python](https://app.datacamp.com/learn/courses/introduction-to-network-analysis-in-python)
+* [What is REST API? Examples and How to Use](https://www.youtube.com/watch?v=-mN3VyJuCjM)
+
+
 
 
 
