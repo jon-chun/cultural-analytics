@@ -65,7 +65,8 @@ We'll customize the social networks of US politicians Jupyter notebook for your 
 ## Thanksgiving Break
 
 * [US Govs Notebook](https://drive.google.com/file/d/1h_RIOtL8p_VsvtR6wThTe-ppprhOJyEl/view?usp=sharing)
-* [Introduction to Network Analysis in Python](https://app.datacamp.com/learn/courses/introduction-to-network-analysis-in-python)
+* (old - previously assigned)[Introduction to Network Analysis in Python](https://app.datacamp.com/learn/courses/introduction-to-network-analysis-in-python)
+* (new for Thanksgiving break)[Analyzing Social Media Data in Python](https://app.datacamp.com/learn/courses/analyzing-social-media-data-in-python)
 * [What is REST API? Examples and How to Use](https://www.youtube.com/watch?v=-mN3VyJuCjM)
 
 
