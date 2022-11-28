@@ -69,6 +69,10 @@ We'll customize the social networks of US politicians Jupyter notebook for your 
 * (new for Thanksgiving break)[Analyzing Social Media Data in Python](https://app.datacamp.com/learn/courses/analyzing-social-media-data-in-python)
 * [What is REST API? Examples and How to Use](https://www.youtube.com/watch?v=-mN3VyJuCjM)
 
+Today
+* [Analyzing Text Similiarity Using SpaCy, networkx](https://www.kaggle.com/code/jchun2000/kernelac333b51db/edit)
+* [Network centrality using networkx](https://www.kaggle.com/code/rahulgoel1106/network-centrality-using-networkx)
+* [NetworkX Project](https://networkx.org/documentation/stable/reference/algorithms/centrality.html)
 
 
 
