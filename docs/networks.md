@@ -74,6 +74,7 @@ We'll customize the social networks of US politicians Jupyter notebook for your 
 * [Analyzing Text Similiarity Using SpaCy, networkx](https://www.kaggle.com/code/jchun2000/kernelac333b51db/edit)
 * [Network centrality using networkx](https://www.kaggle.com/code/rahulgoel1106/network-centrality-using-networkx)
 * [NetworkX API Centrality Metrics](https://networkx.org/documentation/stable/reference/algorithms/centrality.html) - Review and come to next class with explainations and examples of applications
+* [Twitter Semantic Networks with snscrape](https://drive.google.com/file/d/1TS6F3vMRUNDb5Lo1Cs69s6m_gDRIKzEh/view?usp=sharing)
 
 
 
