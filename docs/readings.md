@@ -3,6 +3,12 @@
 
 ![Reading Image](images/img_iphs290_readings_sincerely-media-c1YrcFYW66s-unsplash.jpg)
 
+## Final Project
+
+* Step 1: [Sentiment Analysis of Tweets Colab notebook](https://colab.research.google.com/drive/1A-Q1LKOyrWHN-owK_7t6JXlOR9KAZ1CL?usp=sharing)
+* Step 2 (Optional): [Topic Modeling for Tweets Colab notebook](https://colab.research.google.com/drive/1OgoUdIEkSs7vPkwh8AX5hR9Nr29L6nwG?usp=sharing)
+
+Step 2 can only read the datafile.csv (processed, formatted and saved/output) from the output of Step 1 Sentiment Analysis of Tweets Colab notebook 
 
 ## Geospatial Visualizations
 
